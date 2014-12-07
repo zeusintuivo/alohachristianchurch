@@ -1,0 +1,1 @@
+require(["../common"],function(){require(["lib/index"])});

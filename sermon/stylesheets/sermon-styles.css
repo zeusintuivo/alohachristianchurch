@@ -1,0 +1,85 @@
+body {
+    font: 100% Verdana, Arial, Helvetica, sans-serif;
+    background: #666666;
+    color: #000000;
+    background-image: url(../../Pics/background_texture.jpg);
+}
+
+@font-face {
+    font-family: 'French Script MT';
+    src: url('/sermon/stylesheets/fonts/french_script_mt/french_script_mt.eot');
+    src: url('/sermon/stylesheets/fonts/french_script_mt/french_script_mt.eot?#iefix') format('embedded-opentype'), url('/sermon/stylesheets/fonts/french_script_mt/french_script_mt.svg#French Script MT') format('svg'), url('/sermon/stylesheets/fonts/french_script_mt/french_script_mt.woff') format('woff'), url('/sermon/stylesheets/fonts/french_script_mt/french_script_mt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.clearfloat {
+    /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+.style1 {     font-family: "French Script MT";     font-size: 32px;}
+.style2 {    font-size: 60px}
+.style6, .style6 a  {
+    color: #1142AA;
+    font-family: "French Script MT";
+	font-size: 28px; text-align: center; 
+	line-height: 45px;
+	text-transform: none;	
+    padding: 7px;
+    margin: 10px;
+
+}
+.video_player_links a {
+    display: inline-block;
+}
+.blue, .blue a {
+    color: #1142AA;
+}
+.green, .green a {
+    color: #0ACF00;
+}
+.style6 a:visited {
+    	color: #078600;
+
+}
+.style6 a:hover {
+	border: rgb(30, 186, 214) 2px  solid;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+
+    text-shadow: 4px 4px 7px rgba(150, 150, 150, 1);
+    padding: 5px;
+    margin: 10px;
+}
+
+.green a:hover {
+    color: #fffef2;
+}
+
+.blue a:hover {
+    color: #00004f;
+}
+.style8 {    font-size: 40px}
+.style10 {    font-size: 48px;}
+.style11 {    font-size: 75px}
+.style14 {    font-family: "French Script MT"}
+.style15 {    font-size: 28px;}
+.style16 {    font-family: "French Script MT";    font-size: 28px;}
+.style17 {    font-family: Arial, Helvetica, sans-serif;    font-size: 12px;}
+.style21 {    font-family: "French Script MT";    font-size: 32px;}
+.style25 {    font-size: 30px}
+.style27 {    font-size: 28px}
+
+span.videocenter {
+	display: block;
+	position: relative;
+	text-align: center;
+	left: 50%;
+	margin-left: -240px;
+
+}

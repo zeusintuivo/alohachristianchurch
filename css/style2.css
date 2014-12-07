@@ -1,0 +1,77 @@
+/*
+Theme Name: Uplift
+Theme URI: http://www.mojo-themes.com/user/wp-3sqrd?r=wp-3sqrd
+Description: Responsive Parallax Church Theme
+Version: 1.01
+Author: WP-3Sqrd Themes
+Author URI: http://www.wp-3sqrd.com
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: church, religion, sermons, scripture, staff, events, blogging
+Text Domain: wp3s
+
+This theme, like WordPress, is licensed under the GPL.
+*/
+#wpadminbar { display: none!important; }
+.alignright,
+.alignleft,
+.aligncenter,
+.sticky,
+.wp-caption-text,
+.wp-caption,
+.bypostauthor,
+.gallery-caption { }
+
+.wp-caption-text {
+	text-align: center;
+	font-size: 12px;
+	font-size: 1.2rem;
+	margin-top: 8px;
+}
+
+.alignright {
+	float: right;
+	clear: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.alignleft {
+	float: left;
+	clear: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+strong {
+	font-weight: bold;
+	font-weight: 700;
+}
+
+cite, var, em {
+	font-style: italic;
+}
+
+ins {
+	text-decoration: none;
+}
+
+div.post h1 a,
+.page-title h1 {
+	-moz-hyphens: auto;
+	word-wrap: break-word;
+}
+
+.format-aside {
+	border-left-width: 22px;
+	border-left-style: solid;
+	padding: 20px;
+}
+
+.sticky .post-title h1 {
+	padding: 10px 10px;
+}

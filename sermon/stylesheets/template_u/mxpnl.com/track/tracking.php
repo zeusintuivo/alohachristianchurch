@@ -1,0 +1,7555 @@
+<?php 
+die("No Direct Access");
+
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 15:51:38;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390164696083;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390164696083;
+REMOTE_PORT: 52138;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Utw62iZxAYgAAA04CCcAAAAa;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390164290; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.222.201;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390164696083;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390164698;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 15:59:24;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390165162652;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390165162652;
+REMOTE_PORT: 33646;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Utw8rCZxAYgAAC5@ax0AAAAh;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390164290; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.222.201;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390165162652;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390165164;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 16:09:22;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390165760189;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390165760189;
+REMOTE_PORT: 55212;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Utw-AiZxAYgAAF0cfkMAAAAM;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390164290; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.222.201;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390165760189;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390165762;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 16:23:12;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390166590533;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390166590533;
+REMOTE_PORT: 51412;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxCQCZxAYgAABNBbkwAAAAR;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.222.201;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390166590533;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390166592;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 16:46:03;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390167960753;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 33971;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: UtxHmyZxAYgAAHayCo0AAAAU;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390167960753;
+HTTP_HOST: www.alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390167960753;
+HTTP_CACHE_CONTROL: max-age=0;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: www.alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+REMOTE_ADDR: 64.134.222.201;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390167963;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 17:57:16;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390172234977;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390172234977;
+REMOTE_PORT: 48785;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxYTCZxAYgAAEBgPGUAAAAD;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390172234977;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390172236;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 18:04:14;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390172652563;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390172652563;
+REMOTE_PORT: 61865;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxZ7iZxAYgAAF@dDP0AAAAV;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390172652563;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390172654;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 18:25:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390173951067;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390173951067;
+REMOTE_PORT: 39957;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxfACZxAYgAADXeVMQAAAAe;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390173951067;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390173953;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 18:28:20;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390174098719;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174098719;
+REMOTE_PORT: 43733;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxflCZxAYgAAD-UnHMAAAAE;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174098719;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390174100;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 18:38:00;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390174678906;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174678906;
+REMOTE_PORT: 65066;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Utxh2CZxAYgAAG7ePm8AAAAK;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174678906;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390174680;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-19 18:39:23;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390174760970;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174760970;
+REMOTE_PORT: 34852;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UtxiKyZxAYgAAHkjfbIAAAAi;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Mzc4ODYyZDk2MWRhMC0wOGNmMjgwZDUtNmIxMjE3N2UtMTAwMjAwLTE0Mzc4ODYyZGE1MmUxNiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390174760970;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390174763;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-20 11:49:50;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390236591988;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390236591988;
+REMOTE_PORT: 33045;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Ut1TriZxAYgAAErgfXgAAAAo;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1390236585; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390236591988;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390236590;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-21 00:21:59;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390281717815;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390281717815;
+REMOTE_PORT: 55895;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Ut4D9yZxAYgAAESqZbIAAAAG;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1390281713; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390281717815;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390281719;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-21 19:26:13;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390350365378;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 34211;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: Ut8QJSZxAYgAAG@ef3YAAAAA;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390350365378;
+HTTP_HOST: alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390350365378;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+REMOTE_ADDR: 50.78.176.206;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390350373;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-21 19:35:51;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390350943506;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390350943506;
+REMOTE_PORT: 57380;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Ut8SZyZxAYgAAB6sBNIAAAAZ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 50.78.176.206;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390350943506;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390350951;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-22 13:36:09;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390415768714;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390415768714;
+REMOTE_PORT: 38776;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuAPmSZxAYgAAH5vc9gAAAAl;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390415661; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143bb3cec831b0-0946e988243271-44574137-ccc00-143bb3cec84156%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390415768714;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390415769;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-22 13:38:23;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390415902858;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390415902858;
+REMOTE_PORT: 44209;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuAQHyZxAYgAAAaFD20AAAAp;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390415661; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143bb3cec831b0-0946e988243271-44574137-ccc00-143bb3cec84156%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390415902858;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390415903;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-22 13:48:20;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390416500021;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390416500021;
+REMOTE_PORT: 37038;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuASdCZxAYgAAEWwfWEAAAAO;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1390415661; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143bb3cec831b0-0946e988243271-44574137-ccc00-143bb3cec84156%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDNiYjNjZWM4MzFiMC0wOTQ2ZTk4ODI0MzI3MS00NDU3NDEzNy1jY2MwMC0xNDNiYjNjZWM4NDE1NiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390416500021;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390416500;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-27 14:14:23;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390850062267;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390850062267;
+REMOTE_PORT: 46794;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuawDyZxAYgAAEz6IIUAAAAM;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1390850054; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390850062267;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390850063;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-28 16:35:04;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1390944900747;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390944900747;
+REMOTE_PORT: 47359;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UugiiCZxAYgAAApO9TMAAAAw;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1390944900747;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1390944904;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-30 19:19:41;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391127574669;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391127574669;
+REMOTE_PORT: 33398;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UursHSZxAYgAABiZC-4AAAAZ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.142.31;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391127574669;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391127581;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-01-30 20:15:05;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1391130897728;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1391130897728;
+REMOTE_PORT: 37458;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 64.134.142.31;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1391130897728;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: www.alohachristianchurch.org;
+UNIQUE_ID: Uur5GSZxAYgAAAvpM@AAAAAa;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391130905;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-01 00:44:03;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391233441986;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391233441986;
+REMOTE_PORT: 39283;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuyJoyZxAYgAABjN4KkAAAAx;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1391233436; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391233441986;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391233443;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-01 00:45:28;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391233526633;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391233526633;
+REMOTE_PORT: 44982;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UuyJ@CZxAYgAACLBFB8AAAAV;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1391233436; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391233526633;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391233528;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-04 22:02:45;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391569353429;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391569353429;
+REMOTE_PORT: 48549;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvGp1SZxAYgAAHKhK9QAAAAc;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.200.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391569353429;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391569365;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-05 10:46:20;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391615167741;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391615167741;
+REMOTE_PORT: 42672;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvJcyyZxAYgAAE1enm8AAAAm;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 67.189.17.211;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391615167741;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391615180;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-05 10:47:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391615243082;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391615243082;
+REMOTE_PORT: 48968;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvJdFyZxAYgAAFQw01oAAAAr;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 67.189.17.211;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391615243082;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391615255;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-06 21:48:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391741291043;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391741291043;
+REMOTE_PORT: 40189;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvRJgyZxAYgAACt3ERkAAABA;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 72.171.16.245;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391741291043;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391741315;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-07 15:29:23;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391804965235;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391804965235;
+REMOTE_PORT: 33118;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvVCIiZxAYgAAAhG0L8AAAAG;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1391804958; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143a6e91601427-08c9b642412a8d8-40622442-fa000-143a6e916037b5%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYTZlOTE2MDE0MjctMDhjOWI2NDI0MTJhOGQ4LTQwNjIyNDQyLWZhMDAwLTE0M2E2ZTkxNjAzN2I1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391804965235;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391804963;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-09 11:04:05;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzOTkyOWZhNDdkMi0wNTBjNWFlYzBiZDlkOC03ZDY5MTEzNS1lMTAwMC0xNDM5OTI5ZmE0ODNjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1391961849335;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzOTkyOWZhNDdkMi0wNTBjNWFlYzBiZDlkOC03ZDY5MTEzNS1lMTAwMC0xNDM5OTI5ZmE0ODNjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391961849335;
+REMOTE_PORT: 36313;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: Uvem9SZxAYgAAECBQ00AAAAH;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1391961824; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221439929fa47d2-050c5aec0bd9d8-7d691135-e1000-1439929fa483c%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 24.20.28.72;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzOTkyOWZhNDdkMi0wNTBjNWFlYzBiZDlkOC03ZDY5MTEzNS1lMTAwMC0xNDM5OTI5ZmE0ODNjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1391961849335;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391961845;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-09 17:42:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ0MThkMTAyNTI3Zi0wN2VkYjgwMTItMWIxMDQzNWQtMzg0MDAwLTE0NDE4ZDEwMjUzMWRmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1391985754712;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ0MThkMTAyNTI3Zi0wN2VkYjgwMTItMWIxMDQzNWQtMzg0MDAwLTE0NDE4ZDEwMjUzMWRmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1391985754712;
+REMOTE_PORT: 38825;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvgEWyZxAYgAACshGKQAAAAW;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_CONNECTION: keep-alive;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214418d102527f-07edb8012-1b10435d-384000-14418d102531df%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 204.195.44.60;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ0MThkMTAyNTI3Zi0wN2VkYjgwMTItMWIxMDQzNWQtMzg0MDAwLTE0NDE4ZDEwMjUzMWRmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1391985754712;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1391985755;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-12 14:14:30;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1392232465433;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1392232465433;
+REMOTE_PORT: 55755;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UvvIFiZxAYgAAGRFKowAAAAG;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 75.148.49.34;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1392232465433;
+HTTP_X_VARNISH: 1649328088;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392232470;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-15 20:04:37;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDQzODM5MjBiNDM0LTA5MjVjYjQyODY4NGVmLTdlNjgxMDM1LTE0MDAwMC0xNDQzODM5MjBiNThiIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1392512671940;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDQzODM5MjBiNDM0LTA5MjVjYjQyODY4NGVmLTdlNjgxMDM1LTE0MDAwMC0xNDQzODM5MjBiNThiIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1392512671940;
+REMOTE_PORT: 36521;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UwAOpSZxAYgAABlqd0MAAAAR;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1392512605; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22144383920b434-0925cb428684ef-7e681035-140000-144383920b58b%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 192.183.209.219;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDQzODM5MjBiNDM0LTA5MjVjYjQyODY4NGVmLTdlNjgxMDM1LTE0MDAwMC0xNDQzODM5MjBiNThiIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1392512671940;
+HTTP_X_VARNISH: 358125765;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392512677;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 17:27:31;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1392848838453;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1392848838453;
+REMOTE_PORT: 64145;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwUv0yZxAYgAAHVZUP8AAAAZ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1392848823; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1392848838453;
+HTTP_X_VARNISH: 226466301;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392848851;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 17:59:38;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392850765234;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850765234;
+REMOTE_PORT: 56354;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU3WiZxAYgAAGIIQRIAAAAO;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850765234;
+HTTP_X_VARNISH: 226522355;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392850778;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 17:59:54;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392850780942;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850780942;
+REMOTE_PORT: 57487;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU3aiZxAYgAAG1na5AAAAAL;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850780942;
+HTTP_X_VARNISH: 226522891;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392850794;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 18:00:04;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392850790359;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850790359;
+REMOTE_PORT: 58357;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392850790359;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 226523247;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: UwU3cyZxAYgAAHOZBUcAAAAS;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392850803;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 18:15:08;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392851695244;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392851695244;
+REMOTE_PORT: 51322;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU6-CZxAYgAAGcqeJMAAAAP;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392851695244;
+HTTP_X_VARNISH: 226550292;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392851708;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 18:15:55;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392851742298;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392851742298;
+REMOTE_PORT: 54177;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU7KyZxAYgAAGoUgfIAAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392851742298;
+HTTP_X_VARNISH: 226551615;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392851755;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 18:21:15;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392852061201;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392852061201;
+REMOTE_PORT: 40772;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU8ayZxAYgAAAn4CycAAAAH;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392852061201;
+HTTP_X_VARNISH: 226560264;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392852075;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-02-19 18:21:43;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1392852089953;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392852089953;
+REMOTE_PORT: 42401;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UwU8hyZxAYgAAAqRDikAAAAI;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.101;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1392852089953;
+HTTP_X_VARNISH: 226561037;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1392852103;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-03-08 18:53:37;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1394322809220;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1394322809220;
+REMOTE_PORT: 39937;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UxutgSZxAYgAAA6FQ0wAAAAY;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 216.228.167.147;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1394322809220;
+HTTP_X_VARNISH: 296781798;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1394322817;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-03-12 12:13:11;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1394640786601;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1394640786601;
+REMOTE_PORT: 37718;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1394640776; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+REMOTE_ADDR: 64.134.128.5;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1394640786601;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 222114039;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: UyCHlyZxAYgAAEaeDO4AAAAT;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1394640791;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-03-20 14:15:29;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDRlMGI0NWU3NzAtMDAzYThmMjc2LTFhMTE3OTU2LTEwMDIwMC0xNDRlMGI0NWU3ODVjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1395339320963;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDRlMGI0NWU3NzAtMDAzYThmMjc2LTFhMTE3OTU2LTEwMDIwMC0xNDRlMGI0NWU3ODVjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1395339320963;
+REMOTE_PORT: 49015;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1788.0 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UyswQSZxAYgAAC4xshgAAAA3;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22144e0b45e770-003a8f276-1a117956-100200-144e0b45e785c%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 146.197.246.70;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDRlMGI0NWU3NzAtMDAzYThmMjc2LTFhMTE3OTU2LTEwMDIwMC0xNDRlMGI0NWU3ODVjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1395339320963;
+HTTP_X_VARNISH: 444386507;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1395339329;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-03-31 12:22:37;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396282956123;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396282956123;
+REMOTE_PORT: 36721;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: UzmWTSZxAYgAAC8XXGgAAAAc;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.9.1396282950089; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396282956123;
+HTTP_X_VARNISH: 464367364;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396282957;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-03-31 12:23:01;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NTE3OGE4NzQ1NTc1LTA3NDE1NTVlYmFkYzIyLTMwMGMyYjQ2LWEwMDAwLTE0NTE3OGE4NzU1NTg3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396259325796;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NTE3OGE4NzQ1NTc1LTA3NDE1NTVlYmFkYzIyLTMwMGMyYjQ2LWEwMDAwLTE0NTE3OGE4NzU1NTg3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396259325796;
+REMOTE_PORT: 38008;
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; AlexaToolbar/amzni-3.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; AskTbBCPA/5.15.2.23037; AlexaToolbar/amzni-3.0);
+HTTP_ACCEPT_LANGUAGE: es-mx;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: UzmWZSZxAYgAAC9DXtUAAAAp;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22145178a8745575-0741555ebadc22-300c2b46-a0000-145178a8755587%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 189.231.161.181;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NTE3OGE4NzQ1NTc1LTA3NDE1NTVlYmFkYzIyLTMwMGMyYjQ2LWEwMDAwLTE0NTE3OGE4NzU1NTg3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396259325796;
+HTTP_X_VARNISH: 464367765;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396282981;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-02 16:36:36;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396470996580;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396470996580;
+REMOTE_PORT: 62436;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: Uzx01CZxAYgAAAQ4gJ4AAAAX;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396470996580;
+HTTP_X_VARNISH: 468699358;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396470996;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-02 16:39:27;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396471166684;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396471166684;
+REMOTE_PORT: 39735;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: Uzx1fiZxAYgAAHtJZk0AAAAi;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396471166684;
+HTTP_X_VARNISH: 468702827;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396471167;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-03 23:37:04;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396582623076;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396582623076;
+REMOTE_PORT: 52144;
+HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 4.1.1; MB886 Build/9.8.0Q-97_MB886_FFW-20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Mobile Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: HTTP/1.1 cncnz02msp3ts06.wnsnet.attws.com;
+UNIQUE_ID: Uz4o4CZxAYgAACGpI98AAAA8;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1396582596; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221437ed914a82d-09fc38004-7d386d60-34080-1437ed914aa41%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 166.216.157.85;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396582623076;
+HTTP_X_VARNISH: 471360101;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396582624;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-03 23:37:48;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1396582666867;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396582666867;
+REMOTE_PORT: 55477;
+HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 4.1.1; MB886 Build/9.8.0Q-97_MB886_FFW-20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Mobile Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: HTTP/1.1 cncnz02msp3ts06.wnsnet.attws.com;
+UNIQUE_ID: Uz4pDCZxAYgAABlNBiYAAAAe;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1396582596; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221437ed914a82d-09fc38004-7d386d60-34080-1437ed914aa41%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 166.216.157.85;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ZWQ5MTRhODJkLTA5ZmMzODAwNC03ZDM4NmQ2MC0zNDA4MC0xNDM3ZWQ5MTRhYTQxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIkFuZHJvaWQiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1396582666867;
+HTTP_X_VARNISH: 471361376;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396582668;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-04 10:09:12;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1396620551573;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 35335;
+HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 4.2.2; GT-P5210 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.170 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: Uz69CCZxAYgAAETDdAcAAAAi;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1396620535; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221452d1265450-01cf880ad-6b667a00-fa000-1452d12654a1d%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1396620551573;
+HTTP_X_VARNISH: 472326604;
+HTTP_HOST: alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1396620551573;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REMOTE_ADDR: 64.134.140.34;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1396620552;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-14 02:01:20;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397455279352;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397455279352;
+REMOTE_PORT: 44771;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U0t5ryZxAYgAACm9EVsAAABF;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1397455216; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221455ed354e7b9-0b8b9fe03f783c-7e671f35-140000-1455ed354e825%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 216.105.70.103;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397455279352;
+HTTP_X_VARNISH: 327616370;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397455280;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-14 02:05:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397455534305;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397455534305;
+REMOTE_PORT: 63749;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U0t6riZxAYgAAGWbEOsAAAAS;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1397455216; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221455ed354e7b9-0b8b9fe03f783c-7e671f35-140000-1455ed354e825%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 216.105.70.103;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397455534305;
+HTTP_X_VARNISH: 327623173;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397455534;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-14 02:55:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397458534550;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397458534550;
+REMOTE_PORT: 52381;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U0uGZyZxAYgAADzfUCMAAAAX;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1397458524; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221455ed354e7b9-0b8b9fe03f783c-7e671f35-140000-1455ed354e825%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 216.105.70.103;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDU1ZWQzNTRlN2I5LTBiOGI5ZmUwM2Y3ODNjLTdlNjcxZjM1LTE0MDAwMC0xNDU1ZWQzNTRlODI1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397458534550;
+HTTP_X_VARNISH: 327702357;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397458535;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:28:48;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397773726641;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773726641;
+REMOTE_PORT: 61121;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BVoCZxAYgAAFW31UYAAAAg;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773726641;
+HTTP_X_VARNISH: 336825927;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773728;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:29:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397773784922;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773784922;
+REMOTE_PORT: 64680;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BV2iZxAYgAAF7z87UAAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773784922;
+HTTP_X_VARNISH: 336827222;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773786;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:30:16;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397773815043;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773815043;
+REMOTE_PORT: 33523;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BV@CZxAYgAAFo@4x8AAAAl;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773815043;
+HTTP_X_VARNISH: 336827707;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773816;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:31:00;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397773859092;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773859092;
+REMOTE_PORT: 36212;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BWJCZxAYgAAG5oL58AAAAT;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397773859092;
+HTTP_X_VARNISH: 336828576;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773860;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:31:15;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397773873273;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773873273;
+REMOTE_PORT: 37185;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BWMyZxAYgAAHCGQykAAAAf;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773873273;
+HTTP_X_VARNISH: 336828920;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773875;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:32:01;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397773918676;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773918676;
+REMOTE_PORT: 40012;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BWYCZxAYgAAHkRU5MAAAAn;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773918676;
+HTTP_X_VARNISH: 336829844;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773921;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:32:28;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397773946398;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773946398;
+REMOTE_PORT: 41908;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BWfCZxAYgAAHCFQi0AAAAe;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397773946398;
+HTTP_X_VARNISH: 336830491;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397773948;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:39:02;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397774340653;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397774340653;
+REMOTE_PORT: 33140;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BYBiZxAYgAACounvYAAAAi;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397774340653;
+HTTP_X_VARNISH: 336838944;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397774342;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-17 18:40:59;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397774457348;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397774457348;
+REMOTE_PORT: 40133;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1BYeyZxAYgAAEC7EHoAAAAC;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.35;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397774457348;
+HTTP_X_VARNISH: 336841359;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397774459;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-18 11:51:18;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1397836278623;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397836278623;
+REMOTE_PORT: 53433;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U1FJ9iZxAYgAACIgPR8AAAAA;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.15;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1397836278623;
+HTTP_X_VARNISH: 338486193;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397836278;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-19 17:09:54;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJMaW51eCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1397941794681;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJMaW51eCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397941794681;
+REMOTE_PORT: 56470;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U1LmIiZxAYgAAFyFBsUAAAAZ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1397941779; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 174.25.121.78;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJMaW51eCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1397941794681;
+HTTP_X_VARNISH: 341635329;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1397941794;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-21 20:15:38;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1398125737099;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1398125737099;
+REMOTE_PORT: 62689;
+HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 4.2.2; GT-P5210 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U1W0qiZxAYgAAEIBzxkAAAAI;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1398125718; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221452d1265450-01cf880ad-6b667a00-fa000-1452d12654a1d%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 72.171.16.245;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIiRkZXZpY2UiOiAiQW5kcm9pZCIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDUyZDEyNjU0NTAtMDFjZjg4MGFkLTZiNjY3YTAwLWZhMDAwLTE0NTJkMTI2NTRhMWQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1398125737099;
+HTTP_X_VARNISH: 346965814;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1398125738;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-04-22 00:19:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1398140392099;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1398140392099;
+REMOTE_PORT: 46271;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U1Xt6SZxAYgAAGVleA4AAAAH;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214518f319511b4-0d60897ed-3f76025f-100200-14518f31952348%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 72.171.16.250;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ1MThmMzE5NTExYjQtMGQ2MDg5N2VkLTNmNzYwMjVmLTEwMDIwMC0xNDUxOGYzMTk1MjM0OCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1398140392099;
+HTTP_X_VARNISH: 347370264;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1398140393;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-05-17 16:35:27;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYwYmU1ODdiYjE0Ny0wNzA0MjYxMmE3ODNjNTQtMTE3YzEzMmEtMTAwMjAwLTE0NjBiZTU4N2JjMzNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1400358930388;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYwYmU1ODdiYjE0Ny0wNzA0MjYxMmE3ODNjNTQtMTE3YzEzMmEtMTAwMjAwLTE0NjBiZTU4N2JjMzNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400358930388;
+REMOTE_PORT: 36045;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie10; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U3fIDyZxAYgAACLfCzoAAAAk;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1400358673; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221460be587bb147-07042612a783c54-117c132a-100200-1460be587bc33d%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 98.246.221.123;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYwYmU1ODdiYjE0Ny0wNzA0MjYxMmE3ODNjNTQtMTE3YzEzMmEtMTAwMjAwLTE0NjBiZTU4N2JjMzNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400358930388;
+HTTP_X_VARNISH: 287295632;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1400358927;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-05-18 08:31:22;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NjBmNTBjOWRkMTM0LTAzZjA5NjI2Yy00ZjRiMDUyZS0xNWY5MDAtMTQ2MGY1MGM5ZGZkMiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1400416291311;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NjBmNTBjOWRkMTM0LTAzZjA5NjI2Yy00ZjRiMDUyZS0xNWY5MDAtMTQ2MGY1MGM5ZGZkMiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400416291311;
+REMOTE_PORT: 64309;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,fr;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U3ioGiZxAYgAAF5IzZcAAAAX;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1400415630; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221460f50c9dd134-03f09626c-4f4b052e-15f900-1460f50c9dfd2%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.59.165.146;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NjBmNTBjOWRkMTM0LTAzZjA5NjI2Yy00ZjRiMDUyZS0xNWY5MDAtMTQ2MGY1MGM5ZGZkMiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400416291311;
+HTTP_X_VARNISH: 289452466;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1400416282;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-05-20 14:36:18;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1400610995129;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400610995129;
+REMOTE_PORT: 44595;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U3ugoSZxAYgAAE-gzwcAAAAv;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1400610887; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221461aebbbb1f6-037decefe-4f4b072e-100200-1461aebbbb2457%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 67.189.109.210;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400610995129;
+HTTP_X_VARNISH: 297640760;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1400610978;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-05-20 14:36:59;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1400611036435;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400611036435;
+REMOTE_PORT: 49119;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U3ugyyZxAYgAAGIVMYcAAAAQ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1400610887; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221461aebbbb1f6-037decefe-4f4b072e-100200-1461aebbbb2457%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 67.189.109.210;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400611036435;
+HTTP_X_VARNISH: 297642934;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1400611019;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-05-20 14:37:25;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1400611062253;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400611062253;
+REMOTE_PORT: 52125;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U3ug5CZxAYgAAFcbBoEAAAAW;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1400610887; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221461aebbbb1f6-037decefe-4f4b072e-100200-1461aebbbb2457%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 67.189.109.210;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDYxYWViYmJiMWY2LTAzN2RlY2VmZS00ZjRiMDcyZS0xMDAyMDAtMTQ2MWFlYmJiYjI0NTciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1400611062253;
+HTTP_X_VARNISH: 297644439;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1400611045;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-02 00:28:43;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY1YWQ2NmI2YzdjZS0wZThlOTVjMTVlODMwNC03ZDIzNjk2MS0xZmE0MDAtMTQ2NWFkNjZiNmQ2M2YiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1401683340149;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY1YWQ2NmI2YzdjZS0wZThlOTVjMTVlODMwNC03ZDIzNjk2MS0xZmE0MDAtMTQ2NWFkNjZiNmQ2M2YiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1401683340149;
+REMOTE_PORT: 33374;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U4v9eyZxAYgAACFJFTQAAAAY;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1401683317; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221465ad66b6c7ce-0e8e95c15e8304-7d236961-1fa400-1465ad66b6d63f%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 108.249.84.229;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY1YWQ2NmI2YzdjZS0wZThlOTVjMTVlODMwNC03ZDIzNjk2MS0xZmE0MDAtMTQ2NWFkNjZiNmQ2M2YiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1401683340149;
+HTTP_X_VARNISH: 1331689910;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1401683323;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-08 12:32:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1402245163533;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1402245163533;
+REMOTE_PORT: 38456;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U5SQLiZxAYgAAFoKeZ4AAAAa;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1402245163533;
+HTTP_X_VARNISH: 1363767458;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1402245166;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-09 02:41:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY3ZjVjOWNkYjRmMi0wZmYwYmQ4Y2YtNGU0YzA1MmYtMTAwMjAwLTE0NjdmNWM5Y2RjNzA1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1402296114401;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY3ZjVjOWNkYjRmMi0wZmYwYmQ4Y2YtNGU0YzA1MmYtMTAwMjAwLTE0NjdmNWM5Y2RjNzA1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1402296114401;
+REMOTE_PORT: 64403;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U5VXMSZxAYgAADF9hL8AAAA0;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221467f5c9cdb4f2-0ff0bd8cf-4e4c052f-100200-1467f5c9cdc705%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 67.169.219.59;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDY3ZjVjOWNkYjRmMi0wZmYwYmQ4Y2YtNGU0YzA1MmYtMTAwMjAwLTE0NjdmNWM5Y2RjNzA1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1402296114401;
+HTTP_X_VARNISH: 1366520969;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1402296113;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-09 14:14:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1402337685815;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1402337685815;
+REMOTE_PORT: 59653;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.55; Windows NT 6.0; WOW64; Trident/5.0; msn OptimizedIE8;ENUS);
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: HTTP/1.1 (Velocity/3.3.24.1 [uScMs f p eN:t cCMp s ]);
+UNIQUE_ID: U5X5liZxAYgAACNYOfkAAAA5;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214681d6f130fa-01c0e94c0c772f-4024320d-c0000-14681d6f13123e%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.46.20;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1402337685815;
+HTTP_X_VARNISH: 1369021621;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1402337686;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-09 14:20:57;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1402338056645;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1402338056645;
+REMOTE_PORT: 41552;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.55; Windows NT 6.0; WOW64; Trident/5.0; msn OptimizedIE8;ENUS);
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-us;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214681d6f130fa-01c0e94c0c772f-4024320d-c0000-14681d6f13123e%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.46.20;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2ODFkNmYxMzBmYS0wMWMwZTk0YzBjNzcyZi00MDI0MzIwZC1jMDAwMC0xNDY4MWQ2ZjEzMTIzZSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1402338056645;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1369047858;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: HTTP/1.1 (Velocity/3.3.24.1 [uScMs f p eN:t cCMp s ]);
+HTTP_HOST: www.alohachristianchurch.org;
+UNIQUE_ID: U5X7CSZxAYgAAHXzbMIAAAAh;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1402338057;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-16 09:27:17;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwiJGRldmljZSI6ICJBbmRyb2lkIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmE0ZGMzZjhhMC0wMDg3ZmI3NGQtNzU0YjQxNzEtMzc4MDAtMTQ2YTRkYzNmOGQ0YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1402925236149;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 42540;
+HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 4.4.3; Nexus 4 Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: U57wtSZxAYgAADyxesEAAAAm;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1402924884; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146a4dc3f8a0-0087fb74d-754b4171-37800-146a4dc3f8d4b%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwiJGRldmljZSI6ICJBbmRyb2lkIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmE0ZGMzZjhhMC0wMDg3ZmI3NGQtNzU0YjQxNzEtMzc4MDAtMTQ2YTRkYzNmOGQ0YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1402925236149;
+HTTP_X_VARNISH: 258170824;
+HTTP_HOST: www.alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiQW5kcm9pZCIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwiJGRldmljZSI6ICJBbmRyb2lkIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmE0ZGMzZjhhMC0wMDg3ZmI3NGQtNzU0YjQxNzEtMzc4MDAtMTQ2YTRkYzNmOGQ0YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiQW5kcm9pZCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1402925236149;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: www.alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REMOTE_ADDR: 24.20.180.148;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1402925237;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 14:33:39;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403141617706;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403141617706;
+REMOTE_PORT: 58446;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HbgiZxAYgAAB-02uIAAAAo;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403141617706;
+HTTP_X_VARNISH: 264878522;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403116419;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 15:40:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403145651626;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403145651626;
+REMOTE_PORT: 59633;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HrRSZxAYgAAFOmbHYAAAAL;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403145651626;
+HTTP_X_VARNISH: 265020459;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403120453;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 15:57:31;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403146649943;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146649943;
+REMOTE_PORT: 60363;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HvKyZxAYgAAE6QZg0AAAAR;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146649943;
+HTTP_X_VARNISH: 265053028;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403121451;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 15:58:26;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403146704500;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146704500;
+REMOTE_PORT: 64094;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HvYiZxAYgAAGAwuMQAAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146704500;
+HTTP_X_VARNISH: 265054913;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403121506;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 15:59:16;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403146754999;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 34508;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: U6HvlCZxAYgAAGINx4wAAAAe;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146754999;
+HTTP_X_VARNISH: 265056464;
+HTTP_HOST: alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146754999;
+HTTP_CACHE_CONTROL: max-age=0;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REMOTE_ADDR: 208.71.201.110;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403121556;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 15:59:30;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403146768717;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146768717;
+REMOTE_PORT: 35308;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HvoiZxAYgAAGoB68sAAAAS;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403146768717;
+HTTP_X_VARNISH: 265056789;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403121570;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 16:06:27;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403147185174;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403147185174;
+REMOTE_PORT: 33159;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HxQyZxAYgAAByfNCEAAAAz;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403147185174;
+HTTP_X_VARNISH: 265072754;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403121987;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-18 16:07:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403147271189;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403147271189;
+REMOTE_PORT: 39640;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6HxmSZxAYgAACZ6Xa4AAAAm;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.163;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403147271189;
+HTTP_X_VARNISH: 265075851;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403122073;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-20 12:50:24;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1403283023639;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403283023639;
+REMOTE_PORT: 46153;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: U6RmUCZxAYgAAD-TtXUAAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146ba2fa70e391-05038a11c-31720559-100200-146ba2fa70f644%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.166;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403283023639;
+HTTP_X_VARNISH: 270152770;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403283024;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:49:54;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1403452192201;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452192201;
+REMOTE_PORT: 52097;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b7ISZxAYgAAEFekZkAAAAZ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452192201;
+HTTP_X_VARNISH: 1576854600;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452193;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:50:27;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403452227856;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452227856;
+REMOTE_PORT: 53086;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b7QyZxAYgAADxYdeMAAAAP;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1403452184; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146c445810940-0893cb52f5011a8-7c6e1735-fa000-146c445810aea%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452227856;
+HTTP_X_VARNISH: 1576855067;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452227;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:51:00;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403452260676;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452260676;
+REMOTE_PORT: 54256;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b7ZCZxAYgAAEqCwdgAAAAK;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1403452184; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146c445810940-0893cb52f5011a8-7c6e1735-fa000-146c445810aea%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDZjNDQ1ODEwOTQwLTA4OTNjYjUyZjUwMTFhOC03YzZlMTczNS1mYTAwMC0xNDZjNDQ1ODEwYWVhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452260676;
+HTTP_X_VARNISH: 1576855578;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452260;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:51:09;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1403452267278;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452267278;
+REMOTE_PORT: 54472;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b7bCZxAYgAAEiYs@cAAAAG;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214378862d961da0-08cf280d5-6b12177e-100200-14378862da52e16%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDM3ODg2MmQ5NjFkYTAtMDhjZjI4MGQ1LTZiMTIxNzdlLTEwMDIwMC0xNDM3ODg2MmRhNTJlMTYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452267278;
+HTTP_X_VARNISH: 1576855688;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452269;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:54:04;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1403452442975;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452442975;
+REMOTE_PORT: 60211;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b8HCZxAYgAAFAW4t4AAAAE;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143aa7b8b73378-03cf1b275eda46-44574137-100200-143aa7b8b7420d%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1403452442975;
+HTTP_X_VARNISH: 1576858197;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452444;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:54:36;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1403452477249;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 61249;
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; BRI/2);
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: U6b8PCZxAYgAAFRi96kAAAAQ;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1403452441; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146c4494f2273f-02af0363321033-72735f57-1bcab9-146c4494f314bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452477249;
+HTTP_X_VARNISH: 1576858670;
+HTTP_HOST: alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452477249;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REMOTE_ADDR: 192.183.194.15;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452476;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-06-22 11:55:07;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1403452508233;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452508233;
+REMOTE_PORT: 62243;
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; BRI/2);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U6b8WyZxAYgAAF2AIzMAAAAI;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1403452441; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146c4494f2273f-02af0363321033-72735f57-1bcab9-146c4494f314bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 192.183.194.15;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NmM0NDk0ZjIyNzNmLTAyYWYwMzYzMzIxMDMzLTcyNzM1ZjU3LTFiY2FiOS0xNDZjNDQ5NGYzMTRiYiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1403452508233;
+HTTP_X_VARNISH: 1576859088;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1403452507;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-12 05:55:00;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmYzZDY0MTMzLTA2MDkzNzExZjk1NzkxLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmYzZDY1NDgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405158899088;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmYzZDY0MTMzLTA2MDkzNzExZjk1NzkxLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmYzZDY1NDgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405158899088;
+REMOTE_PORT: 42625;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8EF9CZxAYgAADzRdSAAAAAm;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214729ff3d64133-06093711f95791-3854333e-c0000-14729ff3d6548%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.175;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmYzZDY0MTMzLTA2MDkzNzExZjk1NzkxLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmYzZDY1NDgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405158899088;
+HTTP_X_VARNISH: 1102344761;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405158900;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-12 05:55:21;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmY5MjNiMmEtMDE3NTNlNWMwNTJkMmJjLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmY5MjQxMTgxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1405158920786;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmY5MjNiMmEtMDE3NTNlNWMwNTJkMmJjLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmY5MjQxMTgxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405158920786;
+REMOTE_PORT: 44148;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8EGCSZxAYgAADzQc@cAAAAl;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214729ff923b2a-01753e5c052d2bc-3854333e-c0000-14729ff9241181%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.175;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzI5ZmY5MjNiMmEtMDE3NTNlNWMwNTJkMmJjLTM4NTQzMzNlLWMwMDAwLTE0NzI5ZmY5MjQxMTgxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405158920786;
+HTTP_X_VARNISH: 1102345355;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405158921;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-14 21:29:48;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzM3YTNjOTc4MjhjLTAwZWFiMWY1YTM4NjRlLTM4NTQzMzNlLWMwMDAwLTE0NzM3YTNjOTc5MmJhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1405387786654;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzM3YTNjOTc4MjhjLTAwZWFiMWY1YTM4NjRlLTM4NTQzMzNlLWMwMDAwLTE0NzM3YTNjOTc5MmJhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405387786654;
+REMOTE_PORT: 59490;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8SEDCZxAYgAAHL1hYoAAAAi;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214737a3c97828c-00eab1f5a3864e-3854333e-c0000-14737a3c9792ba%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.184;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzM3YTNjOTc4MjhjLTAwZWFiMWY1YTM4NjRlLTM4NTQzMzNlLWMwMDAwLTE0NzM3YTNjOTc5MmJhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405387786654;
+HTTP_X_VARNISH: 1749508857;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405387788;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-15 21:09:38;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdiMWY4MjAtMDU2NzE1NjJkNzkyZjRjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdiMWY5MmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405472977429;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdiMWY4MjAtMDU2NzE1NjJkNzkyZjRjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdiMWY5MmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472977429;
+REMOTE_PORT: 45099;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8XQ0iZxAYgAAGC6lW4AAAAE;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221473cb7b1f820-05671562d792f4c-3854333e-c0000-1473cb7b1f92f%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.111;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdiMWY4MjAtMDU2NzE1NjJkNzkyZjRjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdiMWY5MmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472977429;
+HTTP_X_VARNISH: 1752548936;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405472978;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-15 21:09:47;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkM2YxNTgtMGYzMmE2YzZiOTA4YzUtMzg1NDMzM2UtYzAwMDAtMTQ3M2NiN2QzZjMyMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405472986129;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkM2YxNTgtMGYzMmE2YzZiOTA4YzUtMzg1NDMzM2UtYzAwMDAtMTQ3M2NiN2QzZjMyMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472986129;
+REMOTE_PORT: 46088;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8XQ2yZxAYgAAHKI8kUAAAAj;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221473cb7d3f158-0f32a6c6b908c5-3854333e-c0000-1473cb7d3f321f%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.111;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkM2YxNTgtMGYzMmE2YzZiOTA4YzUtMzg1NDMzM2UtYzAwMDAtMTQ3M2NiN2QzZjMyMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472986129;
+HTTP_X_VARNISH: 1752549403;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405472987;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-15 21:09:48;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkOWQyMTdjLTBmZmM4ODM3MTI4NjllLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdkOWQzMTNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1405472987616;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkOWQyMTdjLTBmZmM4ODM3MTI4NjllLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdkOWQzMTNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405472987616;
+REMOTE_PORT: 46127;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221473cb7d9d217c-0ffc883712869e-3854333e-c0000-1473cb7d9d313d%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US;
+REMOTE_ADDR: 199.30.25.170;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjdkOWQyMTdjLTBmZmM4ODM3MTI4NjllLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjdkOWQzMTNkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405472987616;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1752549418;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: U8XQ2yZxAYgAAHIr6mkAAAAe;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405472988;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-15 21:09:59;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjgwNTE5M2UwLTAxMzE1M2FiYjQ0NjhjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjgwNTFiNDciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405472998699;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjgwNTE5M2UwLTAxMzE1M2FiYjQ0NjhjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjgwNTFiNDciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472998699;
+REMOTE_PORT: 47020;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8XQ5yZxAYgAAG9-1R0AAAAS;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221473cb805193e0-013153abb4468c-3854333e-c0000-1473cb8051b47%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.170;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzNjYjgwNTE5M2UwLTAxMzE1M2FiYjQ0NjhjLTM4NTQzMzNlLWMwMDAwLTE0NzNjYjgwNTFiNDciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405472998699;
+HTTP_X_VARNISH: 1752549809;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405472999;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-16 21:07:02;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJhYjRlNDA0LTBjNzI4ZDdjNzVmMTRhLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJhYjRmMTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405559221101;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJhYjRlNDA0LTBjNzI4ZDdjNzVmMTRhLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJhYjRmMTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559221101;
+REMOTE_PORT: 46354;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8chtiZxAYgAAEp4CI8AAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214741dbab4e404-0c728d7c75f14a-3854333e-c0000-14741dbab4f19%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.38;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJhYjRlNDA0LTBjNzI4ZDdjNzVmMTRhLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJhYjRmMTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559221101;
+HTTP_X_VARNISH: 1755334488;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405559222;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-16 21:07:11;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJkMWM2MWMtMDRkODZlYTI4ZjMyNzg0LTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJkMWM3MjdmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1405559230937;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJkMWM2MWMtMDRkODZlYTI4ZjMyNzg0LTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJkMWM3MjdmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405559230937;
+REMOTE_PORT: 47176;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8chvyZxAYgAAEYweKcAAAAr;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214741dbd1c61c-04d86ea28f32784-3854333e-c0000-14741dbd1c727f%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.38;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGJkMWM2MWMtMDRkODZlYTI4ZjMyNzg0LTM4NTQzMzNlLWMwMDAwLTE0NzQxZGJkMWM3MjdmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1405559230937;
+HTTP_X_VARNISH: 1755334819;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405559231;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-16 21:07:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGMyODg3NDMtMDU5OTA1ZjgxZDdlOGRjLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGMyODhjNmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405559253212;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 49227;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: U8ch1iZxAYgAAFtkNqIAAAAC;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214741dc288743-059905f81d7e8dc-3854333e-c0000-14741dc288c6b%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGMyODg3NDMtMDU5OTA1ZjgxZDdlOGRjLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGMyODhjNmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559253212;
+HTTP_X_VARNISH: 1755335718;
+HTTP_HOST: alohachristianchurch.org;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGMyODg3NDMtMDU5OTA1ZjgxZDdlOGRjLTM4NTQzMzNlLWMwMDAwLTE0NzQxZGMyODhjNmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559253212;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REMOTE_ADDR: 199.30.25.140;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405559254;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-16 21:07:47;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGM1YjBlM2Y0LTBkNGUzMzM2ZGExYWUtMzg1NDMzM2UtYzAwMDAtMTQ3NDFkYzViMGYxZTUiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405559266222;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGM1YjBlM2Y0LTBkNGUzMzM2ZGExYWUtMzg1NDMzM2UtYzAwMDAtMTQ3NDFkYzViMGYxZTUiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559266222;
+REMOTE_PORT: 50315;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8ch4yZxAYgAAFvBOUoAAAAQ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214741dc5b0e3f4-0d4e3336da1ae-3854333e-c0000-14741dc5b0f1e5%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.25.140;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzQxZGM1YjBlM2Y0LTBkNGUzMzM2ZGExYWUtMzg1NDMzM2UtYzAwMDAtMTQ3NDFkYzViMGYxZTUiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405559266222;
+HTTP_X_VARNISH: 1755336098;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405559267;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-17 02:35:49;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405578949652;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405578949652;
+REMOTE_PORT: 56571;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8duxSZxAYgAAB56EVAAAAAu;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146ba2fa70e391-05038a11c-31720559-100200-146ba2fa70f644%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405578949652;
+HTTP_X_VARNISH: 1755878657;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405578949;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-17 09:36:21;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1405604180650;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405604180650;
+REMOTE_PORT: 37339;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8fRVCZxAYgAAEtTNcEAAAAo;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22146ba2fa70e391-05038a11c-31720559-100200-146ba2fa70f644%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ2YmEyZmE3MGUzOTEtMDUwMzhhMTFjLTMxNzIwNTU5LTEwMDIwMC0xNDZiYTJmYTcwZjY0NCIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiTGludXgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1405604180650;
+HTTP_X_VARNISH: 1756573293;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1405604181;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-23 13:29:03;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzY0NDRlNjhjMTctMGVjZGM2ZWZjNmI4YjItNTkzYTBmNDYtYzAwMDAtMTQ3NjQ0NGU2OGQyMzYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1406136542867;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzY0NDRlNjhjMTctMGVjZGM2ZWZjNmI4YjItNTkzYTBmNDYtYzAwMDAtMTQ3NjQ0NGU2OGQyMzYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406136542867;
+REMOTE_PORT: 52073;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U8-w3yZxAYgAACLBm8cAAAAy;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476444e68c17-0ecdc6efc6b8b2-593a0f46-c0000-1476444e68d236%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 65.55.215.245;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0NzY0NDRlNjhjMTctMGVjZGM2ZWZjNmI4YjItNTkzYTBmNDYtYzAwMDAtMTQ3NjQ0NGU2OGQyMzYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406136542867;
+HTTP_X_VARNISH: 1158767042;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406136543;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-24 00:18:49;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1406175531299;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406175531299;
+REMOTE_PORT: 34090;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9CJKSZxAYgAADFbKNIAAAAD;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406175487; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476697d11db-08e27f8c96b46d8-43514136-ccc00-1476697d11e16e%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406175531299;
+HTTP_X_VARNISH: 207453804;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406175529;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-24 00:23:31;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1406175813070;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406175813070;
+REMOTE_PORT: 57082;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9CKQyZxAYgAAG7BqU4AAAAu;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406175487; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476697d11db-08e27f8c96b46d8-43514136-ccc00-1476697d11e16e%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406175813070;
+HTTP_X_VARNISH: 207463188;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406175811;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-24 00:29:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1406176176322;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406176176322;
+REMOTE_PORT: 57233;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9CLriZxAYgAADS-OvMAAABJ;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1406175487; mindsparktb_100000448=true; mindsparktbsupport_100000448=true; mindspark_extension_api_features_100000448=TOOLBAR_CLEANER; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476697d11db-08e27f8c96b46d8-43514136-ccc00-1476697d11e16e%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2Njk3ZDExZGItMDhlMjdmOGM5NmI0NmQ4LTQzNTE0MTM2LWNjYzAwLTE0NzY2OTdkMTFlMTZlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406176176322;
+HTTP_X_VARNISH: 207476889;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406176174;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-25 18:42:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406328161638;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406328161638;
+REMOTE_PORT: 51754;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9LdWiZxAYgAABNoeO8AAAA0;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406328141; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb0c55f101-0fd5a952b2e437-43514236-100200-1476fb0c5601bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406328161638;
+HTTP_X_VARNISH: 986161377;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406328154;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-25 18:48:15;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1406328495927;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406328495927;
+REMOTE_PORT: 56129;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9LeryZxAYgAAE575Q0AAAAB;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406328489; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406328495927;
+HTTP_X_VARNISH: 986178593;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406328495;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-25 18:53:02;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1406328782922;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406328782922;
+REMOTE_PORT: 56914;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9LfziZxAYgAAH1nnQUAAAAM;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406328489; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406328782922;
+HTTP_X_VARNISH: 986194411;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406328782;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 14:46:21;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1406573182551;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406573182551;
+REMOTE_PORT: 52048;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9aafSZxAYgAADYRTQcAAABe;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.3.10.1406571824; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406573182551;
+HTTP_X_VARNISH: 998015841;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406573181;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 14:46:40;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1406573201182;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406573201182;
+REMOTE_PORT: 53957;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9aakCZxAYgAADWtKhYAAAA6;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.3.10.1406571824; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406573201182;
+HTTP_X_VARNISH: 998016771;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406573200;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 14:47:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406573262355;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 60745;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: U9aaxiZxAYgAAEHZmSsAAAAX;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406573257; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb0c55f101-0fd5a952b2e437-43514236-100200-1476fb0c5601bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406573262355;
+HTTP_X_VARNISH: 998020085;
+HTTP_HOST: www.alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406573262355;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: www.alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REMOTE_ADDR: 50.43.13.65;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406573254;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 14:51:57;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3N2U1MGI5MWMxYy0wMTQyZjRjM2ZmZWVmLTRiNGM3MzJkLTEwMDIwMC0xNDc3ZTUwYjkxZDExZiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406573525292;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3N2U1MGI5MWMxYy0wMTQyZjRjM2ZmZWVmLTRiNGM3MzJkLTEwMDIwMC0xNDc3ZTUwYjkxZDExZiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406573525292;
+REMOTE_PORT: 33213;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS);
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9abzCZxAYgAAHnjMiwAAAAe;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406573518; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221477e50b91c1c-0142f4c3ffeef-4b4c732d-100200-1477e50b91d11f%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3N2U1MGI5MWMxYy0wMTQyZjRjM2ZmZWVmLTRiNGM3MzJkLTEwMDIwMC0xNDc3ZTUwYjkxZDExZiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406573525292;
+HTTP_X_VARNISH: 998039436;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406573517;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 15:02:15;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406574143998;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406574143998;
+REMOTE_PORT: 58046;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9aeNyZxAYgAAGI31VkAAAAC;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1406573257; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb0c55f101-0fd5a952b2e437-43514236-100200-1476fb0c5601bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406574143998;
+HTTP_X_VARNISH: 998085309;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406574135;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 15:05:49;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406574358000;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406574358000;
+REMOTE_PORT: 47257;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9afDSZxAYgAAAchhiUAAAAs;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.3.10.1406573257; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb0c55f101-0fd5a952b2e437-43514236-100200-1476fb0c5601bb%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.13.65;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc2ZmIwYzU1ZjEwMS0wZmQ1YTk1MmIyZTQzNy00MzUxNDIzNi0xMDAyMDAtMTQ3NmZiMGM1NjAxYmIiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406574358000;
+HTTP_X_VARNISH: 998095975;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406574349;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-28 22:51:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc4MDA3YjE4OTAtMDUzMjgyNzI4LTRlNDYwNzJjLTEwMDIwMC0xNDc4MDA3YjE4YWNmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1406602293648;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc4MDA3YjE4OTAtMDUzMjgyNzI4LTRlNDYwNzJjLTEwMDIwMC0xNDc4MDA3YjE4YWNmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406602293648;
+REMOTE_PORT: 63832;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9cMNSZxAYgAAFX@@vEAAAA5;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1406602272; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221478007b1890-053282728-4e46072c-100200-1478007b18acf%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 67.169.219.59;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDc4MDA3YjE4OTAtMDUzMjgyNzI4LTRlNDYwNzJjLTEwMDIwMC0xNDc4MDA3YjE4YWNmIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1406602293648;
+HTTP_X_VARNISH: 150065093;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406602294;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-29 20:57:54;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzVmYzFkMTBiLTA2YWZlODBiZDE0MGIxLTZjMDU2NzY5LWMwMDAwLTE0Nzg0YzVmYzFlMWY3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1406681873460;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzVmYzFkMTBiLTA2YWZlODBiZDE0MGIxLTZjMDU2NzY5LWMwMDAwLTE0Nzg0YzVmYzFlMWY3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406681873460;
+REMOTE_PORT: 51464;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9hDEgoUDAUAAFWXm6wAAAAN;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214784c5fc1d10b-06afe80bd140b1-6c056769-c0000-14784c5fc1e1f7%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.104;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzVmYzFkMTBiLTA2YWZlODBiZDE0MGIxLTZjMDU2NzY5LWMwMDAwLTE0Nzg0YzVmYzFlMWY3IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1406681873460;
+HTTP_X_VARNISH: 1702204530;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406681874;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-07-29 20:57:58;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzYwZDQ3MjI1LTA0NGYwMWM3Y2M2YjEzYy02YzA1Njc2OS1jMDAwMC0xNDc4NGM2MGQ0ODEyMSIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1406681877848;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzYwZDQ3MjI1LTA0NGYwMWM3Y2M2YjEzYy02YzA1Njc2OS1jMDAwMC0xNDc4NGM2MGQ0ODEyMSIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406681877848;
+REMOTE_PORT: 51672;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U9hDFgoUDAUAAFWAmjoAAAAR;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214784c60d47225-044f01c7cc6b13c-6c056769-c0000-14784c60d48121%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.104;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0Nzg0YzYwZDQ3MjI1LTA0NGYwMWM3Y2M2YjEzYy02YzA1Njc2OS1jMDAwMC0xNDc4NGM2MGQ0ODEyMSIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1406681877848;
+HTTP_X_VARNISH: 1702204626;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1406681878;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-06 03:39:47;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI2ZmU3NmUtMGM0NjY3NTBkMmFkZDYtNmMwNTY3NjktYzAwMDAtMTQ3YWE0MjZmZTgxOTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1407310786570;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI2ZmU3NmUtMGM0NjY3NTBkMmFkZDYtNmMwNTY3NjktYzAwMDAtMTQ3YWE0MjZmZTgxOTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407310786570;
+REMOTE_PORT: 35090;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@HbwwoUDAMAABIgfB4AAAAv;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147aa426fe76e-0c466750d2add6-6c056769-c0000-147aa426fe8199%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.29;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI2ZmU3NmUtMGM0NjY3NTBkMmFkZDYtNmMwNTY3NjktYzAwMDAtMTQ3YWE0MjZmZTgxOTkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407310786570;
+HTTP_X_VARNISH: 888316404;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407310787;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-06 03:39:55;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI4OTQ4MzEtMDZiNTFjY2I2YTMwYTQtNmMwNTY3NjktYzAwMDAtMTQ3YWE0Mjg5NDkxMmMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1407310793078;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI4OTQ4MzEtMDZiNTFjY2I2YTMwYTQtNmMwNTY3NjktYzAwMDAtMTQ3YWE0Mjg5NDkxMmMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407310793078;
+REMOTE_PORT: 35866;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@HbywoUDAMAABIgfCYAAAAv;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147aa42894831-06b51ccb6a30a4-6c056769-c0000-147aa42894912c%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.29;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FhNDI4OTQ4MzEtMDZiNTFjY2I2YTMwYTQtNmMwNTY3NjktYzAwMDAtMTQ3YWE0Mjg5NDkxMmMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407310793078;
+HTTP_X_VARNISH: 888316744;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407310795;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-07 03:43:17;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmJmNzgxOGItMDc3MzA0YjQxNGFjM2EtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YmY3ODIyMmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1407397394332;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmJmNzgxOGItMDc3MzA0YjQxNGFjM2EtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YmY3ODIyMmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407397394332;
+REMOTE_PORT: 62471;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147af6bf7818b-077304b414ac3a-6c056769-c0000-147af6bf78222f%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US;
+REMOTE_ADDR: 199.30.24.90;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmJmNzgxOGItMDc3MzA0YjQxNGFjM2EtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YmY3ODIyMmYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407397394332;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1586132661;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: U@MuFAoUDAMAADqPUhYAAAAr;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407397396;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-07 03:43:27;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmMyNzQ2M2I5LTA0ZDBiNTZlMmM2NzRjNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjMjc0NzNhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1407397406547;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmMyNzQ2M2I5LTA0ZDBiNTZlMmM2NzRjNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjMjc0NzNhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1407397406547;
+REMOTE_PORT: 63820;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@MuHwoUDAMAADrHUGMAAAAs;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147af6c27463b9-04d0b56e2c674c4-6c056769-c0000-147af6c27473a7%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.90;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmMyNzQ2M2I5LTA0ZDBiNTZlMmM2NzRjNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjMjc0NzNhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1407397406547;
+HTTP_X_VARNISH: 1586133063;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407397407;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-07 03:43:37;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM0ZDcwMi0wYzdkZmJiZmNhYmFlYTgtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YzRkNzMxYTQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1407397416319;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM0ZDcwMi0wYzdkZmJiZmNhYmFlYTgtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YzRkNzMxYTQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407397416319;
+REMOTE_PORT: 64887;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@MuKQoUDAMAADUXMe8AAAAW;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147af6c4d702-0c7dfbbfcabaea8-6c056769-c0000-147af6c4d731a4%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.188;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM0ZDcwMi0wYzdkZmJiZmNhYmFlYTgtNmMwNTY3NjktYzAwMDAtMTQ3YWY2YzRkNzMxYTQiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407397416319;
+HTTP_X_VARNISH: 1586133327;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407397417;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-07 03:43:44;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM2N2U4NDBhLTA3MDdhNjRkMDIxN2ZmNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjNjdlOTMwNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1407397423093;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM2N2U4NDBhLTA3MDdhNjRkMDIxN2ZmNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjNjdlOTMwNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1407397423093;
+REMOTE_PORT: 33037;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@MuMAoUDAMAADX8PSYAAAAf;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147af6c67e840a-0707a64d0217ff4-6c056769-c0000-147af6c67e9307%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 199.30.24.188;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0N2FmNmM2N2U4NDBhLTA3MDdhNjRkMDIxN2ZmNC02YzA1Njc2OS1jMDAwMC0xNDdhZjZjNjdlOTMwNyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1407397423093;
+HTTP_X_VARNISH: 1586133605;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407397424;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-10 18:16:23;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdjMWZlNzlkMzJmMi0wMmVlZTkyZjY5MDljNjgtNzJmNmE2ZC1iMWQwMC0xNDdjMWZlNzlkNDM1MCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1407708985823;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdjMWZlNzlkMzJmMi0wMmVlZTkyZjY5MDljNjgtNzJmNmE2ZC1iMWQwMC0xNDdjMWZlNzlkNDM1MCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407708985823;
+REMOTE_PORT: 39620;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@fvNwoUDAcAAG0Fn28AAAAX;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1407708108; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147c1fe79d32f2-02eee92f6909c68-72f6a6d-b1d00-147c1fe79d4350%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.56.213;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdjMWZlNzlkMzJmMi0wMmVlZTkyZjY5MDljNjgtNzJmNmE2ZC1iMWQwMC0xNDdjMWZlNzlkNDM1MCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1407708985823;
+HTTP_X_VARNISH: 461406420;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1407708983;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 13:46:52;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408211208524;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211208524;
+REMOTE_PORT: 43393;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@ZDAoUDAYAAB87Y@0AAAAS;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1408211183; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211208524;
+HTTP_X_VARNISH: 1522756043;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408211212;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 13:47:03;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408211219493;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211219493;
+REMOTE_PORT: 44143;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@ZFwoUDAYAACKxeGcAAAAk;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1408211183; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211219493;
+HTTP_X_VARNISH: 1522756365;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408211223;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 13:47:17;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408211233440;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211233440;
+REMOTE_PORT: 45827;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@ZJQoUDAYAAB5yXMkAAAAD;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1408211183; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211233440;
+HTTP_X_VARNISH: 1522757216;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408211237;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 13:53:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408211622745;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211622745;
+REMOTE_PORT: 48244;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@aqgoUDAYAAF7QyroAAAAJ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1408211183; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211622745;
+HTTP_X_VARNISH: 1522773583;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408211626;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 13:58:01;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408211876839;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211876839;
+REMOTE_PORT: 36292;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+HTTP_COOKIE: __utmb=124732634.2.10.1408211183; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408211876839;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1522783180;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: U@@bqQoUDAYAAA3uGKgAAAAD;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408211881;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 15:39:07;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408217942534;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408217942534;
+REMOTE_PORT: 62160;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@zWwoUDAQAABt09@AAAABJ;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408217942534;
+HTTP_X_VARNISH: 862445265;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408217947;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 15:39:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408217969844;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408217969844;
+REMOTE_PORT: 64654;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408217969844;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 862446274;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: U@@zdwoUDAQAABte8FcAAAA4;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408217975;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 15:44:28;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408218263292;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408218263292;
+REMOTE_PORT: 59565;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@0nAoUDAQAAEkf0dIAAAAL;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408218263292;
+HTTP_X_VARNISH: 862457125;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408218268;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 15:53:14;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408218788893;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408218788893;
+REMOTE_PORT: 35170;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U@@2qgoUDAQAAB7t1-YAAAAL;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408218788893;
+HTTP_X_VARNISH: 862472114;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408218794;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 15:55:54;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408218948769;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408218948769;
+REMOTE_PORT: 48122;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+SERVER_PORT: 80;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408218948769;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 862477068;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: U@@3SgoUDAQAADs-Z@8AAAAW;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408218954;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 22:32:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408242746908;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408242746908;
+REMOTE_PORT: 51864;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-AUQwoUDAIAADjATXQAAAAE;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408242732; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408242746908;
+HTTP_X_VARNISH: 1739479648;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408242755;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 22:34:26;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408242857246;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408242857246;
+REMOTE_PORT: 58144;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-AUsgoUDAIAADoMZpgAAAAa;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408242732; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408242857246;
+HTTP_X_VARNISH: 1739481757;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408242866;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-16 23:27:08;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408246018596;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408246018596;
+REMOTE_PORT: 51926;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-AhCwoUDAIAACi-UqkAAAAl;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408246018596;
+HTTP_X_VARNISH: 1739554243;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408246027;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-17 00:29:38;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408249769097;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408249769097;
+REMOTE_PORT: 34505;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-AvsgoUDAMAAB0GrxwAAAAB;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408249769097;
+HTTP_X_VARNISH: 1616463850;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408249778;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-17 01:01:10;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1408251660654;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408251660654;
+REMOTE_PORT: 40404;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-A3FgoUDAMAAGxgWjkAAAAS;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1408251660654;
+HTTP_X_VARNISH: 1616511691;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408251670;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-19 05:53:09;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJPcGVyYSBNaW5pIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3ZWRhZjJlZGU0NTdlMTEtMGQyMDEyYTM4ZTMyNzItM2EzZDY1NzgtMTUzMTAtMTQ3ZWRhZjM1NzNiZmY2YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiT3BlcmEgTWluaSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408441989403;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_X_PID: 1394;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+HTTP_XID: 6F7DF49EBF4504078F94A6A532838228@VzW;
+HTTP_X_OPERAMINI_FEATURES: advanced, download;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJPcGVyYSBNaW5pIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3ZWRhZjJlZGU0NTdlMTEtMGQyMDEyYTM4ZTMyNzItM2EzZDY1NzgtMTUzMTAtMTQ3ZWRhZjM1NzNiZmY2YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiT3BlcmEgTWluaSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408441989403;
+REMOTE_PORT: 52475;
+HTTP_USER_AGENT: Opera/9.80 (BREW; Opera Mini/5.1/27.2354; U; en) Presto/2.8.119 400X240 LG VN271;
+HTTP_ACCEPT_LANGUAGE: en-US;
+HTTP_X_OPERAMINI_PHONE_UA: LG VN271;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_X_OPERAMINI_PHONE: LG # VN271;
+UNIQUE_ID: U-MehQoUDAcAAAyr900AAAAP;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_COS_NAME: 6;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+HTTP_USERIP: 97.161.219.8;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408441532; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147edaf2ede457e11-0d2012a38e3272-3a3d6578-15310-147edaf3573bff6b%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 209.170.68.30;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 69.78.225.228;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkYnJvd3NlciI6ICJPcGVyYSBNaW5pIiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3ZWRhZjJlZGU0NTdlMTEtMGQyMDEyYTM4ZTMyNzItM2EzZDY1NzgtMTUzMTAtMTQ3ZWRhZjM1NzNiZmY2YiIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiT3BlcmEgTWluaSIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408441989403;
+HTTP_X_VARNISH: 740656396;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408441989;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-19 18:27:29;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408487226958;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408487226958;
+REMOTE_PORT: 52484;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-PPUQoUDAIAAAcS6@YAAABU;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408487222; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408487226958;
+HTTP_X_VARNISH: 306331234;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408487249;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-19 18:34:57;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408487675154;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408487675154;
+REMOTE_PORT: 61625;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_CACHE_CONTROL: max-age=0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-PREQoUDAIAAFMY1LoAAAAr;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408487222; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22147dfedc94176-005dc9a89-4e40012c-100200-147dfedc94389%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDdkZmVkYzk0MTc2LTAwNWRjOWE4OS00ZTQwMDEyYy0xMDAyMDAtMTQ3ZGZlZGM5NDM4OSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408487675154;
+HTTP_X_VARNISH: 306347096;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408487697;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-23 00:59:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgwMTNiZjcyOTQyLTAxZjYxNjI1YS00ZTQwMDEyYy0xMDAyMDAtMTQ4MDEzYmY3MmEyNzgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1408769980210;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgwMTNiZjcyOTQyLTAxZjYxNjI1YS00ZTQwMDEyYy0xMDAyMDAtMTQ4MDEzYmY3MmEyNzgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408769980210;
+REMOTE_PORT: 39178;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8,es;q=0.6;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-gfwgoUDAUAABTD6qYAAAAD;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1408769971; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22148013bf72942-01f61625a-4e40012c-100200-148013bf72a278%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.12;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgwMTNiZjcyOTQyLTAxZjYxNjI1YS00ZTQwMDEyYy0xMDAyMDAtMTQ4MDEzYmY3MmEyNzgiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiQ2hyb21lIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1408769980210;
+HTTP_X_VARNISH: 1033420295;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1408769986;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-26 14:00:21;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgxMzdhMWQ0MzIzZC0wM2YxODYwZGJiMjA3Ni00MjUwNDEzNi1jMDAwMC0xNDgxMzdhMWQ0NDIxNCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409076043084;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgxMzdhMWQ0MzIzZC0wM2YxODYwZGJiMjA3Ni00MjUwNDEzNi1jMDAwMC0xNDgxMzdhMWQ0NDIxNCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409076043084;
+REMOTE_PORT: 33684;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: U-zLNQoUDAUAAEQlc1wAAAAa;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409075992; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22148137a1d4323d-03f1860dbb2076-42504136-c0000-148137a1d44214%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.160.91;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCIkcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX2xpYiI6ICJ3ZWIiLCJkaXN0aW5jdF9pZCI6ICIxNDgxMzdhMWQ0MzIzZC0wM2YxODYwZGJiMjA3Ni00MjUwNDEzNi1jMDAwMC0xNDgxMzdhMWQ0NDIxNCIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAid3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409076043084;
+HTTP_X_VARNISH: 1173039155;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409076021;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-30 12:14:10;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODI3YjFmNzkyMTFmLTA4MzQxMDk4ZDAyZTgyLTU4M2EwZjQ2LWMwMDAwLTE0ODI3YjFmNzkzMTdjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409415247770;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODI3YjFmNzkyMTFmLTA4MzQxMDk4ZDAyZTgyLTU4M2EwZjQ2LWMwMDAwLTE0ODI3YjFmNzkzMTdjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409415247770;
+REMOTE_PORT: 35241;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAH4UQoUDAQAABQGTTMAAAAH;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214827b1f79211f-08341098d02e82-583a0f46-c0000-14827b1f79317c%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 131.253.24.58;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODI3YjFmNzkyMTFmLTA4MzQxMDk4ZDAyZTgyLTU4M2EwZjQ2LWMwMDAwLTE0ODI3YjFmNzkzMTdjIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409415247770;
+HTTP_X_VARNISH: 1637056881;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409415250;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:19:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409534394502;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409534394502;
+REMOTE_PORT: 33078;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPJuQoUDAIAAGC9XlcAAAAI;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409534394502;
+HTTP_X_VARNISH: 362649026;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409534393;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:23:31;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409534612124;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409534612124;
+REMOTE_PORT: 49577;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPKkwoUDAIAAANI37kAAAAi;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409534612124;
+HTTP_X_VARNISH: 362656564;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409534611;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:27:31;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1409534852016;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409534852016;
+REMOTE_PORT: 64261;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPLgwoUDAIAAB70VI8AAAAS;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409534852016;
+HTTP_X_VARNISH: 362662792;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409534851;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:36:08;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409535369319;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409535369319;
+REMOTE_PORT: 64171;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPNiAoUDAIAAHq6Z6kAAAAR;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409535369319;
+HTTP_X_VARNISH: 362671337;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409535368;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:42:49;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1409535770491;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409535770491;
+REMOTE_PORT: 55501;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPPGQoUDAIAADA9vb0AAAAh;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.3.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409535770491;
+HTTP_X_VARNISH: 362680651;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409535769;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:43:48;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409535829030;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409535829030;
+REMOTE_PORT: 60210;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.5.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409535829030;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 362682790;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: VAPPVAoUDAIAADk25I8AAAAe;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409535828;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 21:46:45;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409536006790;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409536006790;
+REMOTE_PORT: 38580;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPQBQoUDAIAAFCOTJsAAAAV;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.6.10.1409534293; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409536006790;
+HTTP_X_VARNISH: 362687248;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409536005;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 22:04:50;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZHc3MUFOVTMzZ0E4eThQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTU2NTg4NC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9V3oxNTJVVTQ4MTVfV0FZNVVOaFV1aXlMT0tZLSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409537086109;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZHc3MUFOVTMzZ0E4eThQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTU2NTg4NC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9V3oxNTJVVTQ4MTVfV0FZNVVOaFV1aXlMT0tZLSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409537086109;
+REMOTE_PORT: 32958;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0);
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPUQgoUDAQAADnXMsoAAAAE;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ef5128c3b2-0c0c4ec2f6a2dd-32713a24-ff000-1482ef5128d8e8%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fr.search.yahoo.com%2F_ylt%3DAwrTcdw71ANU33gA8y8PxQt.%3B_ylu%3DX3oDMTByNzhwY2hkBHNlYwNzcgRwb3MDMgRjb2xvA2dxMQR2dGlkAw--%2FRV%3D2%2FRE%3D1409565884%2FRO%3D10%2FRU%3Dhttp%253a%252f%252falohachristianchurch.org%252fsermon%252f%2FRK%3D0%2FRS%3DWz152UU4815_WAY5UNhUuiyLOKY-%22%2C%22%24initial_referring_domain%22%3A%20%22r.search.yahoo.com%22%7D;
+REMOTE_ADDR: 50.126.140.247;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZHc3MUFOVTMzZ0E4eThQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTU2NTg4NC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9V3oxNTJVVTQ4MTVfV0FZNVVOaFV1aXlMT0tZLSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409537086109;
+HTTP_X_VARNISH: 1640473521;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409537090;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-08-31 22:07:40;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409537256011;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409537256011;
+REMOTE_PORT: 45199;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0);
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAPU7AoUDAQAAEs4ZbsAAAAD;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409537246; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ef5128c3b2-0c0c4ec2f6a2dd-32713a24-ff000-1482ef5128d8e8%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fr.search.yahoo.com%2F_ylt%3DAwrTcdw71ANU33gA8y8PxQt.%3B_ylu%3DX3oDMTByNzhwY2hkBHNlYwNzcgRwb3MDMgRjb2xvA2dxMQR2dGlkAw--%2FRV%3D2%2FRE%3D1409565884%2FRO%3D10%2FRU%3Dhttp%253a%252f%252falohachristianchurch.org%252fsermon%252f%2FRK%3D0%2FRS%3DWz152UU4815_WAY5UNhUuiyLOKY-%22%2C%22%24initial_referring_domain%22%3A%20%22r.search.yahoo.com%22%7D;
+REMOTE_ADDR: 50.126.140.247;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409537256011;
+HTTP_X_VARNISH: 1640478573;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409537260;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-02 13:52:35;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409680355427;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409680355427;
+REMOTE_PORT: 62066;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAYD4woUDAYAACxlZuMAAAAK;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409680339; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.35.202;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409680355427;
+HTTP_X_VARNISH: 1170732696;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409680355;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-02 18:52:40;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409698361978;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409698361978;
+REMOTE_PORT: 42800;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAZKOAoUDAMAAF@@EwYAAAAU;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409698339; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ecc003ff1-0f08589d8264db-33026069-8c954-1482ecc004394%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVjYzAwM2ZmMS0wZjA4NTg5ZDgyNjRkYi0zMzAyNjA2OS04Yzk1NC0xNDgyZWNjMDA0Mzk0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409698361978;
+HTTP_X_VARNISH: 827499900;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409698360;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-02 20:57:02;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2M5Wlp3WlVMWG9BbGVnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ2MTgvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPW9KNkxqWVVLZTVqX0UuakFjekFrQkxyOHhKOC0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjYzlaWndaVUxYb0FsZWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDYxOC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9b0o2TGpZVUtlNWpfRS5qQWN6QWtCTHI4eEo4LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409705816490;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_DNT: 1;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2M5Wlp3WlVMWG9BbGVnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ2MTgvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPW9KNkxqWVVLZTVqX0UuakFjekFrQkxyOHhKOC0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjYzlaWndaVUxYb0FsZWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDYxOC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9b0o2TGpZVUtlNWpfRS5qQWN6QWtCTHI4eEo4LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409705816490;
+REMOTE_PORT: 38183;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0);
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ef5128c3b2-0c0c4ec2f6a2dd-32713a24-ff000-1482ef5128d8e8%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fr.search.yahoo.com%2F_ylt%3DAwrTcdw71ANU33gA8y8PxQt.%3B_ylu%3DX3oDMTByNzhwY2hkBHNlYwNzcgRwb3MDMgRjb2xvA2dxMQR2dGlkAw--%2FRV%3D2%2FRE%3D1409565884%2FRO%3D10%2FRU%3Dhttp%253a%252f%252falohachristianchurch.org%252fsermon%252f%2FRK%3D0%2FRS%3DWz152UU4815_WAY5UNhUuiyLOKY-%22%2C%22%24initial_referring_domain%22%3A%20%22r.search.yahoo.com%22%7D;
+HTTP_ACCEPT_LANGUAGE: en-US;
+REMOTE_ADDR: 50.126.140.247;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2M5Wlp3WlVMWG9BbGVnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ2MTgvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPW9KNkxqWVVLZTVqX0UuakFjekFrQkxyOHhKOC0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjYzlaWndaVUxYb0FsZWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDYxOC9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9b0o2TGpZVUtlNWpfRS5qQWN6QWtCTHI4eEo4LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409705816490;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1067792420;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: VAZnXgoUDAcAAAXzQ94AAAAf;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409705822;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-02 20:57:55;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409705868777;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 42171;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0);
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: VAZnkwoUDAcAAATAPFcAAAAE;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409705856; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ef5128c3b2-0c0c4ec2f6a2dd-32713a24-ff000-1482ef5128d8e8%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fr.search.yahoo.com%2F_ylt%3DAwrTcdw71ANU33gA8y8PxQt.%3B_ylu%3DX3oDMTByNzhwY2hkBHNlYwNzcgRwb3MDMgRjb2xvA2dxMQR2dGlkAw--%2FRV%3D2%2FRE%3D1409565884%2FRO%3D10%2FRU%3Dhttp%253a%252f%252falohachristianchurch.org%252fsermon%252f%2FRK%3D0%2FRS%3DWz152UU4815_WAY5UNhUuiyLOKY-%22%2C%22%24initial_referring_domain%22%3A%20%22r.search.yahoo.com%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409705868777;
+HTTP_X_VARNISH: 1067793728;
+HTTP_HOST: alohachristianchurch.org;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODJlZjUxMjhjM2IyLTBjMGM0ZWMyZjZhMmRkLTMyNzEzYTI0LWZmMDAwLTE0ODJlZjUxMjhkOGU4IiwiJHNlYXJjaF9lbmdpbmUiOiAieWFob28iLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vci5zZWFyY2gueWFob28uY29tL195bHQ9QXdyVGNkdzcxQU5VMzNnQTh5OFB4UXQuO195bHU9WDNvRE1UQnlOemh3WTJoa0JITmxZd056Y2dSd2IzTURNZ1JqYjJ4dkEyZHhNUVIyZEdsa0F3LS0vUlY9Mi9SRT0xNDA5NTY1ODg0L1JPPTEwL1JVPWh0dHAlM2ElMmYlMmZhbG9oYWNocmlzdGlhbmNodXJjaC5vcmclMmZzZXJtb24lMmYvUks9MC9SUz1XejE1MlVVNDgxNV9XQVk1VU5oVXVpeUxPS1ktIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409705868777;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REMOTE_ADDR: 50.126.140.247;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409705875;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-02 21:01:34;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2Q5b2FBWlVPMGtBTHFnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ4ODkvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPUZDSHI4SnBUazRvbURGQWhkSURyRUlFSXdWdy0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZDlvYUFaVU8wa0FMcWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDg4OS9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9RkNIcjhKcFRrNG9tREZBaGRJRHJFSUVJd1Z3LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1409706087660;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+HTTP_UA_CPU: AMD64;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2Q5b2FBWlVPMGtBTHFnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ4ODkvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPUZDSHI4SnBUazRvbURGQWhkSURyRUlFSXdWdy0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZDlvYUFaVU8wa0FMcWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDg4OS9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9RkNIcjhKcFRrNG9tREZBaGRJRHJFSUVJd1Z3LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409706087660;
+REMOTE_PORT: 58768;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0);
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAZobQoUDAcAAC-anfgAAAA9;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1409705856; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221482ef5128c3b2-0c0c4ec2f6a2dd-32713a24-ff000-1482ef5128d8e8%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fr.search.yahoo.com%2F_ylt%3DAwrTcdw71ANU33gA8y8PxQt.%3B_ylu%3DX3oDMTByNzhwY2hkBHNlYwNzcgRwb3MDMgRjb2xvA2dxMQR2dGlkAw--%2FRV%3D2%2FRE%3D1409565884%2FRO%3D10%2FRU%3Dhttp%253a%252f%252falohachristianchurch.org%252fsermon%252f%2FRK%3D0%2FRS%3DWz152UU4815_WAY5UNhUuiyLOKY-%22%2C%22%24initial_referring_domain%22%3A%20%22r.search.yahoo.com%22%7D;
+REMOTE_ADDR: 50.126.140.247;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2Q5b2FBWlVPMGtBTHFnUHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk3MzQ4ODkvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPUZDSHI4SnBUazRvbURGQWhkSURyRUlFSXdWdy0iLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJyLnNlYXJjaC55YWhvby5jb20iLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4MmVmNTEyOGMzYjItMGMwYzRlYzJmNmEyZGQtMzI3MTNhMjQtZmYwMDAtMTQ4MmVmNTEyOGQ4ZTgiLCIkc2VhcmNoX2VuZ2luZSI6ICJ5YWhvbyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9yLnNlYXJjaC55YWhvby5jb20vX3lsdD1Bd3JUY2R3NzFBTlUzM2dBOHk4UHhRdC47X3lsdT1YM29ETVRCeU56aHdZMmhrQkhObFl3TnpjZ1J3YjNNRE1nUmpiMnh2QTJkeE1RUjJkR2xrQXctLS9SVj0yL1JFPTE0MDk1NjU4ODQvUk89MTAvUlU9aHR0cCUzYSUyZiUyZmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyUyZnNlcm1vbiUyZi9SSz0wL1JTPVd6MTUyVVU0ODE1X1dBWTVVTmhVdWl5TE9LWS0iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInIuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3Iuc2VhcmNoLnlhaG9vLmNvbS9feWx0PUF3clRjZDlvYUFaVU8wa0FMcWdQeFF0LjtfeWx1PVgzb0RNVEJ5Tnpod1kyaGtCSE5sWXdOemNnUndiM01ETWdSamIyeHZBMmR4TVFSMmRHbGtBdy0tL1JWPTIvUkU9MTQwOTczNDg4OS9STz0xMC9SVT1odHRwJTNhJTJmJTJmYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnJTJmc2VybW9uJTJmL1JLPTAvUlM9RkNIcjhKcFRrNG9tREZBaGRJRHJFSUVJd1Z3LSIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1409706087660;
+HTTP_X_VARNISH: 1067799561;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409706094;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-04 07:57:30;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODQwODZjYWVhYzItMDE1OTZiN2ExNmE4MjM4LTU4M2EwZjQ2LWMwMDAwLTE0ODQwODZjYWViMWM0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1409831848689;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REMOTE_PORT: 41937;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0);
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+UNIQUE_ID: VAhTqgoUDAMAAE8li1AAAABH;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221484086caeac2-01596b7a16a8238-583a0f46-c0000-1484086caeb1c4%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODQwODZjYWVhYzItMDE1OTZiN2ExNmE4MjM4LTU4M2EwZjQ2LWMwMDAwLTE0ODQwODZjYWViMWM0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409831848689;
+HTTP_X_VARNISH: 832703579;
+HTTP_HOST: alohachristianchurch.org;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODQwODZjYWVhYzItMDE1OTZiN2ExNmE4MjM4LTU4M2EwZjQ2LWMwMDAwLTE0ODQwODZjYWViMWM0IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1409831848689;
+HTTP_CACHE_CONTROL: no-cache;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+SERVER_NAME: alohachristianchurch.org;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REMOTE_ADDR: 65.55.213.57;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409831850;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-04 13:21:51;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1409851306545;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851306545;
+REMOTE_PORT: 63958;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: VAifrwoUDAIAAGfqerkAAAA1;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143aa7b8b73378-03cf1b275eda46-44574137-100200-143aa7b8b7420d%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.68;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851306545;
+HTTP_X_VARNISH: 280524858;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409851311;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-04 13:22:42;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1409851357920;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851357920;
+REMOTE_PORT: 35947;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: VAif4goUDAIAAHlPvbwAAAAT;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143aa7b8b73378-03cf1b275eda46-44574137-100200-143aa7b8b7420d%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.68;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851357920;
+HTTP_X_VARNISH: 280526714;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409851362;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-04 13:22:52;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1409851367364;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851367364;
+REMOTE_PORT: 36765;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0;
+HTTP_CACHE_CONTROL: max-age=259200;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 neteq (squid/3.4.0.2-20131016-r13010);
+UNIQUE_ID: VAif7AoUDAIAAH661MQAAAAp;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22143aa7b8b73378-03cf1b275eda46-44574137-100200-143aa7b8b7420d%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 208.71.201.110;
+SERVER_PROTOCOL: HTTP/1.1;
+HTTP_X_FORWARDED_FOR: 172.16.232.68;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkZpcmVmb3giLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQzYWE3YjhiNzMzNzgtMDNjZjFiMjc1ZWRhNDYtNDQ1NzQxMzctMTAwMjAwLTE0M2FhN2I4Yjc0MjBkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1409851367364;
+HTTP_X_VARNISH: 280527023;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1409851372;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-07 02:14:53;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1410070497876;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410070497876;
+REMOTE_PORT: 44683;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAv33AoUDAQAABFoBPAAAAAI;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1410070411; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221484ec04a4f54a-00bc23d3d9860f-41642242-13c680-1484ec04a50a7a%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.90.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410070497876;
+HTTP_X_VARNISH: 253557463;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1410070493;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-07 02:15:13;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1410070518391;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410070518391;
+REMOTE_PORT: 46521;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Firefox/31.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VAv38QoUDAQAABFpBbUAAAAM;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.2.10.1410070411; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221484ec04a4f54a-00bc23d3d9860f-41642242-13c680-1484ec04a50a7a%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.90.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NGVjMDRhNGY1NGEtMDBiYzIzZDNkOTg2MGYtNDE2NDIyNDItMTNjNjgwLTE0ODRlYzA0YTUwYTdhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410070518391;
+HTTP_X_VARNISH: 253557930;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1410070513;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-11 19:59:01;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NjcyN2VmZjFjNS0wMDBjNzc3NDIyYzNiNGMtMzMwMjYwNjktOGM5NTQtMTQ4NjcyN2VmZjMxMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1410479943698;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NjcyN2VmZjFjNS0wMDBjNzc3NDIyYzNiNGMtMzMwMjYwNjktOGM5NTQtMTQ4NjcyN2VmZjMxMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410479943698;
+REMOTE_PORT: 35199;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VBI3RQoUDAcAAEPes9QAAAAU;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1410479910; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221486727eff1c5-000c777422c3b4c-33026069-8c954-1486727eff311f%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.227.51;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ4NjcyN2VmZjFjNS0wMDBjNzc3NDIyYzNiNGMtMzMwMjYwNjktOGM5NTQtMTQ4NjcyN2VmZjMxMWYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiTW96aWxsYSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1410479943698;
+HTTP_X_VARNISH: 1095643413;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1410479941;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-15 22:44:09;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODdjNTdmNDhmODAtMDZhYTlkYmRmLTNhNDU1MDYzLWMwMDAwLTE0ODdjNTdmNDkwMjk1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1410835412118;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODdjNTdmNDhmODAtMDZhYTlkYmRmLTNhNDU1MDYzLWMwMDAwLTE0ODdjNTdmNDkwMjk1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1410835412118;
+REMOTE_PORT: 65288;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VBej@QoUDAQAAALCZ8MAAAAw;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1410835390; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221487c57f48f80-06aa9dbdf-3a455063-c0000-1487c57f490295%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 71.236.222.225;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODdjNTdmNDhmODAtMDZhYTlkYmRmLTNhNDU1MDYzLWMwMDAwLTE0ODdjNTdmNDkwMjk1IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1410835412118;
+HTTP_X_VARNISH: 279490188;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1410835449;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-18 13:25:50;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODg5Y2M2MmQyMWNlLTAxYTExNGM2ZC00NzQ4MDUyZS0xMDAyMDAtMTQ4ODljYzYyZDMzMTEiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1411061146335;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODg5Y2M2MmQyMWNlLTAxYTExNGM2ZC00NzQ4MDUyZS0xMDAyMDAtMTQ4ODljYzYyZDMzMTEiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411061146335;
+REMOTE_PORT: 54559;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VBsVngoUDAIAADxj-moAAAAO;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip,deflate,sdch;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1411061114; p_cachedDomain=www.alohachristianchurch.org; p_cachedDeals=%5B%5D; __utmb=257075213.2.10.1411061119; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214889cc62d21ce-01a114c6d-4748052e-100200-14889cc62d3311%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 75.170.4.242;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkNocm9tZSIsIiRyZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODg5Y2M2MmQyMWNlLTAxYTExNGM2ZC00NzQ4MDUyZS0xMDAyMDAtMTQ4ODljYzYyZDMzMTEiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIkNocm9tZSIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411061146335;
+HTTP_X_VARNISH: 1997246116;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1411061150;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-20 06:01:06;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODkyODIwMDc5M2QtMDNmNjI0NzRmY2JkMTY0LTU4M2EwZjQ2LWMwMDAwLTE0ODkyODIwMDdhMjg2IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1411207266430;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODkyODIwMDc5M2QtMDNmNjI0NzRmY2JkMTY0LTU4M2EwZjQ2LWMwMDAwLTE0ODkyODIwMDdhMjg2IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411207266430;
+REMOTE_PORT: 43561;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VB1QYgoUDAQAAE19heMAAAAf;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22148928200793d-03f62474fcbd164-583a0f46-c0000-1489282007a286%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 65.55.213.49;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0ODkyODIwMDc5M2QtMDNmNjI0NzRmY2JkMTY0LTU4M2EwZjQ2LWMwMDAwLTE0ODkyODIwMDdhMjg2IiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411207266430;
+HTTP_X_VARNISH: 490203702;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1411207266;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-20 21:10:21;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1411261821585;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411261821585;
+REMOTE_PORT: 59346;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:32.0) Gecko/20100101 Firefox/32.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VB4lfQoUDAcAADt1E-QAAAAl;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1411261811; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.35.202;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411261821585;
+HTTP_X_VARNISH: 1123578868;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1411261821;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-09-20 21:13:08;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1411261987705;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411261987705;
+REMOTE_PORT: 38572;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:32.0) Gecko/20100101 Firefox/32.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VB4mIwoUDAcAAFXojUoAAAAD;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1411261811; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.35.202;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1411261987705;
+HTTP_X_VARNISH: 1123584628;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1411261988;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-10-07 20:19:58;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OGVkMjA2ZTVjOS0wMmFhOTk2YTZiMzNhYzgtM2U2OTA2NGMtZjAwMDAtMTQ4ZWQyMDZlNWQxMjYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIkxpbnV4IiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1412727598692;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OGVkMjA2ZTVjOS0wMmFhOTk2YTZiMzNhYzgtM2U2OTA2NGMtZjAwMDAtMTQ4ZWQyMDZlNWQxMjYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIkxpbnV4IiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1412727598692;
+REMOTE_PORT: 46863;
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:34.0) Gecko/20100101 Firefox/34.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VDSDLgoUDAMAAESW7KkAAAAg;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1412727576; __utmt=1; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22148ed206e5c9-02aa996a6b33ac8-3e69064c-f0000-148ed206e5d126%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 189.231.104.30;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OGVkMjA2ZTVjOS0wMmFhOTk2YTZiMzNhYzgtM2U2OTA2NGMtZjAwMDAtMTQ4ZWQyMDZlNWQxMjYiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9yZWZlcnJlciI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIm1wX2Jyb3dzZXIiOiAiRmlyZWZveCIsIm1wX3BsYXRmb3JtIjogIkxpbnV4IiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1412727598692;
+HTTP_X_VARNISH: 1813798406;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1412727598;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-07 02:43:50;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwiJHJlZmVycmluZ19kb21haW4iOiAidXMueWhzNC5zZWFyY2gueWFob28uY29tIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OTg5MzU4YzVkMTFlLTA3NWJkMmE4OTQ5MzFiYy0zNzRiMDQwZS0xMDAyMDAtMTQ5ODkzNThjNWVjOSIsIiRzZWFyY2hfZW5naW5lIjogInlhaG9vIiwibXBfa2V5d29yZCI6ICJjaHJpc3RpYW4gY2h1cmNoIDIwMTQgcHJpbnRhYmxlIHNlcm1vbnMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vdXMueWhzNC5zZWFyY2gueWFob28uY29tL3locy9zZWFyY2g7X3lsdD1Bd3JUNlZyWmRWeFVIR01BNWJNUHhRdC4/cD1jaHJpc3RpYW4rY2h1cmNoKzIwMTQrcHJpbnRhYmxlK3Nlcm1vbnMmdHlwZT1XM2lfU1AlMkMyMjElMkMwXzAlMkNTdGFydFBhZ2UlMkMyMDE0MDMxMyUyQzE5NjcwJTJDMCUyQ0lFMTAlMkM4MTc4JmZyMj1zYi1ib3QmaHNpbXA9eWhzLXN5bmQxJmhzcGFydD13M2kmeGFyZ3M9MCZiPTQxJnhhPTA2MW90bFYuMlE4ZmEiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInVzLnloczQuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1415346230154;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_DNT: 1;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwiJHJlZmVycmluZ19kb21haW4iOiAidXMueWhzNC5zZWFyY2gueWFob28uY29tIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OTg5MzU4YzVkMTFlLTA3NWJkMmE4OTQ5MzFiYy0zNzRiMDQwZS0xMDAyMDAtMTQ5ODkzNThjNWVjOSIsIiRzZWFyY2hfZW5naW5lIjogInlhaG9vIiwibXBfa2V5d29yZCI6ICJjaHJpc3RpYW4gY2h1cmNoIDIwMTQgcHJpbnRhYmxlIHNlcm1vbnMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vdXMueWhzNC5zZWFyY2gueWFob28uY29tL3locy9zZWFyY2g7X3lsdD1Bd3JUNlZyWmRWeFVIR01BNWJNUHhRdC4%2FcD1jaHJpc3RpYW4rY2h1cmNoKzIwMTQrcHJpbnRhYmxlK3Nlcm1vbnMmdHlwZT1XM2lfU1AlMkMyMjElMkMwXzAlMkNTdGFydFBhZ2UlMkMyMDE0MDMxMyUyQzE5NjcwJTJDMCUyQ0lFMTAlMkM4MTc4JmZyMj1zYi1ib3QmaHNpbXA9eWhzLXN5bmQxJmhzcGFydD13M2kmeGFyZ3M9MCZiPTQxJnhhPTA2MW90bFYuMlE4ZmEiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInVzLnloczQuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1415346230154;
+REMOTE_PORT: 33877;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko;
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-US;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214989358c5d11e-075bd2a894931bc-374b040e-100200-14989358c5ec9%22%2C%22%24search_engine%22%3A%20%22yahoo%22%2C%22mp_keyword%22%3A%20%22christian%20church%202014%20printable%20sermons%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fus.yhs4.search.yahoo.com%2Fyhs%2Fsearch%3B_ylt%3DAwrT6VrZdVxUHGMA5bMPxQt.%3Fp%3Dchristian%2Bchurch%2B2014%2Bprintable%2Bsermons%26type%3DW3i_SP%252C221%252C0_0%252CStartPage%252C20140313%252C19670%252C0%252CIE10%252C8178%26fr2%3Dsb-bot%26hsimp%3Dyhs-synd1%26hspart%3Dw3i%26xargs%3D0%26b%3D41%26xa%3D061otlV.2Q8fayp9ilaDbQ--%2C1415432025%22%2C%22%24initial_referring_domain%22%3A%20%22us.yhs4.search.yahoo.com%22%7D;
+REMOTE_ADDR: 184.19.65.179;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwiJHJlZmVycmluZ19kb21haW4iOiAidXMueWhzNC5zZWFyY2gueWFob28uY29tIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OTg5MzU4YzVkMTFlLTA3NWJkMmE4OTQ5MzFiYy0zNzRiMDQwZS0xMDAyMDAtMTQ5ODkzNThjNWVjOSIsIiRzZWFyY2hfZW5naW5lIjogInlhaG9vIiwibXBfa2V5d29yZCI6ICJjaHJpc3RpYW4gY2h1cmNoIDIwMTQgcHJpbnRhYmxlIHNlcm1vbnMiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwOi8vdXMueWhzNC5zZWFyY2gueWFob28uY29tL3locy9zZWFyY2g7X3lsdD1Bd3JUNlZyWmRWeFVIR01BNWJNUHhRdC4%2FcD1jaHJpc3RpYW4rY2h1cmNoKzIwMTQrcHJpbnRhYmxlK3Nlcm1vbnMmdHlwZT1XM2lfU1AlMkMyMjElMkMwXzAlMkNTdGFydFBhZ2UlMkMyMDE0MDMxMyUyQzE5NjcwJTJDMCUyQ0lFMTAlMkM4MTc4JmZyMj1zYi1ib3QmaHNpbXA9eWhzLXN5bmQxJmhzcGFydD13M2kmeGFyZ3M9MCZiPTQxJnhhPTA2MW90bFYuMlE4ZmEiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInVzLnloczQuc2VhcmNoLnlhaG9vLmNvbSIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoO195bHQ9QXdyVDZWclpkVnhVSEdNQTViTVB4UXQuP3A9Y2hyaXN0aWFuK2NodXJjaCsyMDE0K3ByaW50YWJsZStzZXJtb25zJnR5cGU9VzNpX1NQJTJDMjIxJTJDMF8wJTJDU3RhcnRQYWdlJTJDMjAxNDAzMTMlMkMxOTY3MCUyQzAlMkNJRTEwJTJDODE3OCZmcjI9c2ItYm90JmhzaW1wPXlocy1zeW5kMSZoc3BhcnQ9dzNpJnhhcmdzPTAmYj00MSZ4YT0wNjFvdGxWLjJROGZhIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1415346230154;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1190598396;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: VFx4NgoUDAYAADDpD-0AAAAW;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1415346230;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-17 16:23:20;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YmZhMzcwYzAxMGEtMGRmMDA1NTg2MzczMjctMTgxMzEwMDktMWFlYWEwLTE0OWJmYTM3MGMxNmVkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1416259399900;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YmZhMzcwYzAxMGEtMGRmMDA1NTg2MzczMjctMTgxMzEwMDktMWFlYWEwLTE0OWJmYTM3MGMxNmVkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1416259399900;
+REMOTE_PORT: 52637;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko;
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-us,en-securid;
+HTTP_COOKIE: __utmb=124732634.1.10.1416257626; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22149bfa370c010a-0df00558637327-18131009-1aeaa0-149bfa370c16ed%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 159.121.92.148;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YmZhMzcwYzAxMGEtMGRmMDA1NTg2MzczMjctMTgxMzEwMDktMWFlYWEwLTE0OWJmYTM3MGMxNmVkIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogImFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZyIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCJtcF9icm93c2VyIjogIk1vemlsbGEiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1416259399900;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 1215290335;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_VIA: 1.1 WPDOCPRXL01;
+HTTP_HOST: alohachristianchurch.org;
+UNIQUE_ID: VGpnSAoUDAYAAE92eokAAAAZ;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1416259400;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-18 07:44:07;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWMyZWU2ZjMxYzUtMDg1ZGRiMzg3MGIwMjEtNTkzYTBmNDYtYzAwMDAtMTQ5YzJlZTZmMzIyODciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1416314646327;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWMyZWU2ZjMxYzUtMDg1ZGRiMzg3MGIwMjEtNTkzYTBmNDYtYzAwMDAtMTQ5YzJlZTZmMzIyODciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416314646327;
+REMOTE_PORT: 44304;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VGs-FwoUDAUAAGXIk1EAAAAd;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22149c2ee6f31c5-085ddb3870b021-593a0f46-c0000-149c2ee6f32287%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 131.253.24.36;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWMyZWU2ZjMxYzUtMDg1ZGRiMzg3MGIwMjEtNTkzYTBmNDYtYzAwMDAtMTQ5YzJlZTZmMzIyODciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416314646327;
+HTTP_X_VARNISH: 100830651;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1416314647;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-18 22:05:18;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YzYwMmU5ZDAxZDQtMDJkMDVlYjE4ZDYzNTM4LTFkMjcxZTU0LTE1ZjkwMC0xNDljNjAyZTlkMTIyNSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1416366320328;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YzYwMmU5ZDAxZDQtMDJkMDVlYjE4ZDYzNTM4LTFkMjcxZTU0LTE1ZjkwMC0xNDljNjAyZTlkMTIyNSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416366320328;
+REMOTE_PORT: 64119;
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VGwI7goUDAIAAHEqgeMAAAAa;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+HTTP_DNT: 1;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmb=124732634.1.10.1416366258; __utmt=1; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22149c602e9d01d4-02d05eb18d63538-1d271e54-15f900-149c602e9d1225%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 24.20.155.166;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIk1vemlsbGEiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ5YzYwMmU5ZDAxZDQtMDJkMDVlYjE4ZDYzNTM4LTFkMjcxZTU0LTE1ZjkwMC0xNDljNjAyZTlkMTIyNSIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJNb3ppbGxhIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416366320328;
+HTTP_X_VARNISH: 626817646;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1416366318;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-21 22:51:39;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWQ1YTA2NThkYTAtMGZmMWMxMDZhZjhiYTEtNTgzYTBmNDYtYzAwMDAtMTQ5ZDVhMDY1OGUyMDkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1416628299154;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWQ1YTA2NThkYTAtMGZmMWMxMDZhZjhiYTEtNTgzYTBmNDYtYzAwMDAtMTQ5ZDVhMDY1OGUyMDkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416628299154;
+REMOTE_PORT: 54841;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VHAISwoUDAMAAHETFeAAAAAO;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22149d5a0658da0-0ff1c106af8ba1-583a0f46-c0000-149d5a0658e209%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 131.253.24.66;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWQ1YTA2NThkYTAtMGZmMWMxMDZhZjhiYTEtNTgzYTBmNDYtYzAwMDAtMTQ5ZDVhMDY1OGUyMDkiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwibXBfcGFnZSI6ICJodHRwOi8vYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbi8iLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1416628299154;
+HTTP_X_VARNISH: 371925976;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1416628299;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-24 21:47:25;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1416883644949;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1416883644949;
+REMOTE_PORT: 57934;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:33.0) Gecko/20100101 Firefox/33.0;
+SERVER_PORT: 80;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+HTTP_COOKIE: __utmb=124732634.1.10.1416883620; __utmt=1; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.53.44.96;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1416883644949;
+GATEWAY_INTERFACE: CGI/1.1;
+HTTP_X_VARNISH: 375347301;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+HTTP_HOST: www.alohachristianchurch.org;
+UNIQUE_ID: VHPtvQoUDAMAACw12xsAAAAQ;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1416883645;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-27 04:58:12;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWYwYWZiZDUwNS0wYjE4NTk0ZTE1MTY0NC01OTNhMGY0Ni1jMDAwMC0xNDlmMGFmYmQ1MTE5YiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0=;
+ip: 1;
+_: 1417082289548;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWYwYWZiZDUwNS0wYjE4NTk0ZTE1MTY0NC01OTNhMGY0Ni1jMDAwMC0xNDlmMGFmYmQ1MTE5YiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1417082289548;
+REMOTE_PORT: 35226;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VHb1tAoUDAcAAD4xExsAAAAT;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%22149f0afbd505-0b18594e151644-593a0f46-c0000-149f0afbd5119b%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 65.55.213.53;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0OWYwYWZiZDUwNS0wYjE4NTk0ZTE1MTY0NC01OTNhMGY0Ni1jMDAwMC0xNDlmMGFmYmQ1MTE5YiIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX2Jyb3dzZXIiOiAiSW50ZXJuZXQgRXhwbG9yZXIiLCJtcF9wbGF0Zm9ybSI6ICJXaW5kb3dzIiwidG9rZW4iOiAiMzBjNGJjOTg1YmM5YjQxZDUzNzgzMWI1NTY0MDlkOGUifX0%3D&ip=1&_=1417082289548;
+HTTP_X_VARNISH: 834692870;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1417082292;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-11-30 00:45:14;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1417326314008;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1417326314008;
+REMOTE_PORT: 54136;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:33.0) Gecko/20100101 Firefox/33.0;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.5;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VHqu6goUDAIAABrp5JMAAAAI;
+SERVER_NAME: www.alohachristianchurch.org;
+HTTP_REFERER: http://www.alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://www.alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%221476fb5df2e76-0235de230cac3-41652242-fa000-1476fb5df2f3d1%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.alohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22www.alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.56.117;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHA6Ly93d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnL3Nlcm1vbnMuaHRtbCIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTQ3NmZiNWRmMmU3Ni0wMjM1ZGUyMzBjYWMzLTQxNjUyMjQyLWZhMDAwLTE0NzZmYjVkZjJmM2QxIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cuYWxvaGFjaHJpc3RpYW5jaHVyY2gub3JnIiwibXBfcGFnZSI6ICJodHRwOi8vd3d3LmFsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfcmVmZXJyZXIiOiAiaHR0cDovL3d3dy5hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJGaXJlZm94IiwibXBfcGxhdGZvcm0iOiAiTWFjIE9TIFgiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1417326314008;
+HTTP_X_VARNISH: 208564191;
+HTTP_HOST: www.alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1417326314;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-12-01 08:31:04;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1417440664871;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1417440664871;
+REMOTE_PORT: 62876;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VHxtmAoUDAMAAH-lUQoAAAAC;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate, sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmt=1; __utmb=124732634.1.10.1417440652; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214a060c1d1c3e5-0f917c9b8-1a3a6b5e-13c680-14a060c1d1d4a7%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.56.117;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1417440664871;
+HTTP_X_VARNISH: 382593765;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1417440664;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-12-01 12:46:45;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19;
+ip: 1;
+_: 1417456005756;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1417456005756;
+REMOTE_PORT: 45315;
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36;
+HTTP_ACCEPT_LANGUAGE: en-US,en;q=0.8;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VHyphQoUDAUAAFkmIp4AAAAR;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate, sdch;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: __utmt=1; __utmb=124732634.1.10.1417456001; mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214a060c1d1c3e5-0f917c9b8-1a3a6b5e-13c680-14a060c1d1d4a7%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Falohachristianchurch.org%2Fsermons.html%22%2C%22%24initial_referring_domain%22%3A%20%22alohachristianchurch.org%22%7D;
+REMOTE_ADDR: 50.43.56.117;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTWFjIE9TIFgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkcmVmZXJyZXIiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb25zLmh0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9saWIiOiAid2ViIiwiZGlzdGluY3RfaWQiOiAiMTRhMDYwYzFkMWMzZTUtMGY5MTdjOWI4LTFhM2E2YjVlLTEzYzY4MC0xNGEwNjBjMWQxZDRhNyIsIiRpbml0aWFsX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICJhbG9oYWNocmlzdGlhbmNodXJjaC5vcmciLCJtcF9wYWdlIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9uLyIsIm1wX3JlZmVycmVyIjogImh0dHA6Ly9hbG9oYWNocmlzdGlhbmNodXJjaC5vcmcvc2VybW9ucy5odG1sIiwibXBfYnJvd3NlciI6ICJDaHJvbWUiLCJtcF9wbGF0Zm9ybSI6ICJNYWMgT1MgWCIsInRva2VuIjogIjMwYzRiYzk4NWJjOWI0MWQ1Mzc4MzFiNTU2NDA5ZDhlIn19&ip=1&_=1417456005756;
+HTTP_X_VARNISH: 268542306;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1417456005;
+argv: Array;
+argc: 1;
+
+- - - - - - - - - - - - - - - - - Tracked on: 2014-12-04 00:53:46;
+- - - _GET's: 
+data: eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0YTEzZGM3ZjI4YjctMDg0YWM5YjEzNGExZDM4LTU4M2EwZjQ2LWMwMDAwLTE0YTEzZGM3ZjI5MjRhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ==;
+ip: 1;
+_: 1417672425261;
+- - - _POST's: 
+- - - _SERVER's: 
+PATH: /usr/local/bin:/usr/bin:/bin;
+SCRIPT_NAME: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_METHOD: GET;
+HTTP_ACCEPT: */*;
+SCRIPT_FILENAME: /home/users/web/b1983/ipg.alohachristianchurch/sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+SERVER_SOFTWARE: Apache/2;
+QUERY_STRING: data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0YTEzZGM3ZjI4YjctMDg0YWM5YjEzNGExZDM4LTU4M2EwZjQ2LWMwMDAwLTE0YTEzZGM3ZjI5MjRhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1417672425261;
+REMOTE_PORT: 50337;
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0);
+HTTP_CACHE_CONTROL: no-cache;
+HTTP_ACCEPT_LANGUAGE: en-us;
+GATEWAY_INTERFACE: CGI/1.1;
+SCRIPT_URL: /sermon/stylesheets/template_u/mxpnl.com/track/;
+DOCUMENT_ROOT: /home/users/web/b1983/ipg.alohachristianchurch;
+UNIQUE_ID: VH-26goUDAMAAFiIJJkAAAAE;
+SERVER_NAME: alohachristianchurch.org;
+HTTP_REFERER: http://alohachristianchurch.org/sermon/;
+SERVER_ADMIN: cgiadmin@yourhostingaccount.com;
+HTTP_ACCEPT_ENCODING: gzip, deflate;
+SCRIPT_URI: http://alohachristianchurch.org/sermon/stylesheets/template_u/mxpnl.com/track/;
+SERVER_PORT: 80;
+HTTP_COOKIE: mp_30c4bc985bc9b41d537831b556409d8e_mixpanel=%7B%22distinct_id%22%3A%20%2214a13dc7f28b7-084ac9b134a1d38-583a0f46-c0000-14a13dc7f2924a%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D;
+REMOTE_ADDR: 157.56.1.111;
+SERVER_PROTOCOL: HTTP/1.1;
+REQUEST_URI: /sermon/stylesheets/template_u/mxpnl.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfbGliIjogIndlYiIsImRpc3RpbmN0X2lkIjogIjE0YTEzZGM3ZjI4YjctMDg0YWM5YjEzNGExZDM4LTU4M2EwZjQ2LWMwMDAwLTE0YTEzZGM3ZjI5MjRhIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiAiJGRpcmVjdCIsIm1wX3BhZ2UiOiAiaHR0cDovL2Fsb2hhY2hyaXN0aWFuY2h1cmNoLm9yZy9zZXJtb24vIiwibXBfYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIm1wX3BsYXRmb3JtIjogIldpbmRvd3MiLCJ0b2tlbiI6ICIzMGM0YmM5ODViYzliNDFkNTM3ODMxYjU1NjQwOWQ4ZSJ9fQ%3D%3D&ip=1&_=1417672425261;
+HTTP_X_VARNISH: 385768996;
+HTTP_HOST: alohachristianchurch.org;
+TZ: EST5EDT;
+PHP_SELF: /sermon/stylesheets/template_u/mxpnl.com/track/index.php;
+REQUEST_TIME: 1417672426;
+argv: Array;
+argc: 1;
